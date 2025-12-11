@@ -1,0 +1,39 @@
+{{/* Usage: {{< img "path/to/image.jpg" "size_keyword" "Alt Text" >}}
+    Example: {{< img "/img/2025/12/shop_mess.png" "medium" "Cats and Chaos" >}}
+*/}}
+
+{{- $path := .Get 0 -}}
+{{- $size_key := .Get 1 | default "medium" -}}
+{{- $alt := .Get 2 | default "" -}}
+
+{{/* Define pixel widths for the keywords */}}
+{{- $width := 600 -}}
+{{- if eq $size_key "small" }}{{ $width = 300 }}{{ end -}}
+{{- if eq $size_key "large" }}{{ $width = 900 }}{{ end -}}
+{{- if eq $size_key "medium" }}{{ $width = 600 }}{{ end -}}
+{{- if eq $size_key "full" }}{{ $width = 1200 }}{{ end -}}
+
+{{/* Get the original image resource */}}
+{{- $original := resources.Get $path -}}
+
+{{- if $original -}}
+    {{/* Resize the image using the defined width (Resize "WIDTHx") */}}
+    {{- $resized := $original.Resize (printf "%dx" $width) -}}
+    
+    <figure>
+        <img src="{{ $resized.RelPermalink }}" 
+             width="{{ $resized.Width }}" 
+             height="{{ $resized.Height }}" 
+             alt="{{ $alt }}" />
+        
+        {{/* Optional: Add a caption if you pass a 4th parameter */}}
+        {{- with .Get 3 -}}
+            <figcaption>{{ . }}</figcaption>
+        {{- end -}}
+    </figure>
+{{- else -}}
+    {{/* Display an error message if the image is not found */}}
+    <p style="color: red; border: 1px solid red; padding: 10px;">
+        ERROR: Image shortcode failed. File not found at path: {{ $path }}
+    </p>
+{{- end -}}
