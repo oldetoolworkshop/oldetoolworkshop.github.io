@@ -81,7 +81,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   [params.social]
   rss            = true 
-  #email          = "oldetool@oldetoolworkshop.com"
+  #email         = "https://oldetoolworkshop.com/contact"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
@@ -132,6 +132,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.additional_menus]]
   title =  "ABOUT"
   href =  "/about/"
+  [[params.additional_menus]]
+  title =  "CONTACT"
+  href =  "/contact/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
