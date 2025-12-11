@@ -34,7 +34,7 @@ Over the coming days/weeks, you might notice a few things as we transition:
 
 ### Pardon Our Sawdust
 
-Some dusty corners of the site are getting some love as such you may see the following
+Some dusty corners of the site are getting some much needed love as such you may see the following
 
 * Missing images
 * Missing pages
