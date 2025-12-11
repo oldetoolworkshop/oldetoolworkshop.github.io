@@ -127,6 +127,9 @@ home = ["HTML", "RSS", "Algolia"]
   title =  "LIBRARY"
   href =  "/library/"
   [[params.additional_menus]]
+  title =  "DOWNLOADS"
+  href =  "/download/"
+  [[params.additional_menus]]
   title =  "ABOUT"
   href =  "/about/"
 
