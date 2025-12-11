@@ -101,8 +101,8 @@ home = ["HTML", "RSS", "Algolia"]
   #git           = "full profile url for git user"
   
   [[params.friend_link]]
-  title = "Linda"
-  href =  "https://oldetoolworkshop.com"
+  title = "Roy"
+  href =  "https://www.pbs.org/show/woodwrights-shop/"
 
   [[params.bookmark_link]]
   title =  "Martin Fowler"
