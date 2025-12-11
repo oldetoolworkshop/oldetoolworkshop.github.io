@@ -5,9 +5,8 @@ date: 2021-01-17T01:00:00-05:00
 draft: false
 publishDate: 2021-01-03
 tags: 
-    - workbench
-    - tool series
-    - roubo
+    - drills
+    - drill bits
 author: "Aaron Henderson"
 ---
 

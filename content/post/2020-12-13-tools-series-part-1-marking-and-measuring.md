@@ -4,36 +4,29 @@ title: "Tools Series Part 1 Marking And Measuring"
 date: 2020-12-13T01:00:00-05:00
 draft: false
 publishDate: 2020-12-13
-tags: 
-    - workbench
-    - tool series
-    - roubo
+tags:
+    - tool-series
+    - measuring-tools
+    - marking-tools
+    - woodworking
+    - hand-tools
+    - awls
+    - dividers
+    - marking-gauges
+    - bevel-gauges
+    - squares
+    - rules
+    - marking-knives
+    - writing-tools
+    - homemade-tools
+    - vintage-tools
+    - modern-tools
+    - craft-philosophy
+    - tool-collecting
+    - shop-notes
 author: "Aaron Henderson"
 ---
 
-[Skip to content](<index.html#content>)
-
-# [Olde Tool Workshop](<../../../../index.html>)
-
-## "Quality tools are the key to unlocking your woodworking potential"
-
-Menu
-
-  * [Home](<../../../../index.html>)
-  * [Blog](<../../../../blog/index.html>)
-  * [Links](<../../../../links/index.html>)
-  * [Videos](<../../../../videos/index.html>)
-  * [Downloads](<../../../../downloads/index.html>)
-  * [Library](<../../../../library/index.html>)
-  * [Gallery](<../../../../gallery/index.html>)
-  * [About Me](<../../../../about-me/index.html>)
-  * [Contact Us](<../../../../contact-us/index.html>)
-
-
-
-[![Olde Tool Workshop](../../../../wp-content/uploads/2020/12/cropped-workshop-2020-12-03-cropped-scaled-1.jpg)](<../../../../index.html>)
-
-# Tools Series - Part 1 - Marking and Measuring
 
 ![](../../../../wp-content/uploads/2020/12/IMG_1158-scaled.jpg)
 
