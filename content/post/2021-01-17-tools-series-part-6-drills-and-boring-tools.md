@@ -11,7 +11,11 @@ author: "Aaron Henderson"
 ---
 
 
-![](../../../../wp-content/uploads/2021/01/IMG_1388-scaled.jpg)From Left to Right - Millers Falls - No, 05, No. 77 and No. 2A with homemade side handle
+<figure>
+  <img src="/img/2021/01/IMG_1388-scaled.jpg" alt="Millers Falls Drills" align="left" width="600">
+  <br clear="left"/>
+  <figcaption><i>From Left to Right - Millers Falls - No, 05, No. 77 and No. 2A with homemade side handle</i></figcaption>  
+</figure>
 
 Drill Humor, barely …  
   
@@ -26,31 +30,66 @@ The "eggbeater" drills and braces are plentiful and usually not very expensive (
 
 You normally use the 4-sided shank bits in braces and smooth shank bits in the eggbeater drills. You can use the smooth shank bits in braces, but beware of slippage as your brace chuck design may not grip the bit as tightly. 
 
-![](../../../../wp-content/uploads/2021/01/IMG_1405-scaled.jpg)STANLEY YANKEE NO. 2101-10 inch "BELL SYSTEM" Bit Brace 10″ Swing, Single Speed Reversing Drive
+
+<figure>
+  <img src="/img/2021/01/IMG_1405-768x635.jpg" alt="STANLEY YANKEE NO. 2101" align="left" width="600">
+  <br clear="left"/>
+  <figcaption><i>STANLEY YANKEE NO. 2101-10 inch "BELL SYSTEM" Bit Brace 10″ Swing, Single Speed Reversing Drivee</i></figcaption>  
+</figure>
+
 
 Drilling is a skill that does take time and practice to get right. There are techniques that allow you to drill a specific angle or square to the wood. One technique for braces is the ring method. With this method you can put a ring on an auger bit to see if you are level or not. Check out [this post from 2011 from LumberJocks](<https://www.lumberjocks.com/Brit/blog/26129>) on how to do this.
 
-![](../../../../wp-content/uploads/2021/01/IMG_1400-scaled.jpg)Irwin Bit Set - Sizes 4 - 16\. Or 1/4″ - 1″ each number is a 1/16″ increment, Adjustable Bit on right for larger holes 
+<figure>
+  <img src="/img/2021/01/IMG_1400-scaled.jpg" alt="Irwin Bit Set" align="left" width="600">
+  <br clear="left"/>
+  <figcaption><i>Irwin Bit Set - Sizes 4 - 16\. Or 1/4″ - 1″ each number is a 1/16″ increment, Adjustable Bit on right for larger holes</i></figcaption>  
+</figure>
 
 This set is an Irwin design. I bought these off of CraigsList for $60. There are also Jenkins bits on the market and they also work well with braces. I do not have a preference of the set types, I just happened on this set. The lead screw on the set above is a course design used for softer woods. I may still purchase a smaller set with fine lead screws for hardwood work. 
 
-  * ![](../../../../wp-content/uploads/2021/01/IMG_1431.jpg)Modern Brad Point Bit Set from Lee Valley
-  * ![](../../../../wp-content/uploads/2021/01/IMG_1395-scaled.jpg)Som Vintage Bits 1/4″, 1/8″ Spoon Bit, Countersink Bit and Chamfering bit
-
+<figure>
+  <img src="/img/2021/01/IMG_1431.jpg" alt="Lee Valley Brad Point Bits" align="left" width="300">
+   <br clear="left"/>
+  <figcaption><i>Modern Brad Point Bit Set from Lee Valley</i></figcaption>
+</figure>
+   
+<figure>
+  <img src="/img/2021/01/IMG_1395-scaled.jpg" alt="Vintage Bits" align="left" width="300">
+  <br clear="left"/>
+  <figcaption><i>Some Vintage Bits 1/4″, 1/8″ Spoon Bit, Countersink Bit and Chamfering bit</i></figcaption> 
+</figure>
+ 
+ 
 
 
 I consider Brad-Point bits essential to my woodworking. I purchased this set from [Lee-Valley](<https://www.leevalley.com/en-us/shop/tools/power-tool-accessories/drill-bits/42247-hss-lipped-imperial-brad-point-drills?item=07J0107>) in 2012. It is a very good quality high-speed steel set. One note on these bits: If you use them in a drill press, make sure to line up the exit hole with the bit. You do not want these brad-points hitting the metal of you drill press bed. 
 
-![](../../../../wp-content/uploads/2021/01/IMG_1436-scaled.jpg)Vintage Drill Bit Set with wooden case. 
+<figure>
+  <img src="/img/2021/01/IMG_1436-scaled.jpg" alt="Lee Valley Brad Point Bits" align="left" width="600">
+   <br clear="left"/>
+  <figcaption><i>Vintage Drill Bit Set with wooden case.</i></figcaption>
+</figure>
 
-  * ![](../../../../wp-content/uploads/2021/01/IMG_1433-1-scaled.jpg)Vintage Case for Bit Set
-  * ![](../../../../wp-content/uploads/2021/01/IMG_1434-scaled.jpg) _Vintage Case for Bit Set_
+<figure>
+  <img src="/img/2021/01/IMG_1433-1-scaled.jpg" alt="Vintage Case for Bit Set" align="left" width="600">
+   <br clear="left"/>
+  <figcaption><i>Vintage Case for Bit Set</i></figcaption>
+</figure>
 
-
+<figure>
+  <img src="/img/2021/01/IMG_1434-scaled.jpg" alt="Vintage Case for Bit Set" align="left" width="600">
+   <br clear="left"/>
+  <figcaption><i>Vintage Case for Bit Set</i></figcaption>
+</figure>
 
 Some people don't use twist bits on fine woodworking projects. I use them in areas that do not need to be pretty as they can and do chew up the wood. You can mitigate this a little bit by placing a sacrificial backer board clamped on the back to reduce the exit tear-out. They can also be used in metal on very slow speeds. I got the set pictured above at a [MWTCA](<https://mwtca.org/>) meet in Sept 2015.
 
-![](../../../../wp-content/uploads/2021/01/IMG_1440-scaled.jpg)Freud PB-107B 7Pc Forsener Bit Set - Used with Power Drill for larger work
+<figure>
+  <img src="/img/2021/01/IMG_1440-scaled.jpg" alt="Modern Freud PB-107B 7Pc Forsener Bit Set" align="left" width="600">
+   <br clear="left"/>
+  <figcaption><i>odern Freud PB-107B 7Pc Forsener Bit Set - Used with Power Drill for larger work</i></figcaption>
+</figure>
 
 The forsener bit set above is a recent purchase from 2020. I love these bits for clearing out a ton of waste very quickly. I only use these with power tools as the require a lot of torque. They a great for boring smooth-walled holes and nice flat-bottom holes. They do not usually tear up the top surface like other bits can. 
 
