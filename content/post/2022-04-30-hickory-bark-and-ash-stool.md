@@ -16,7 +16,7 @@ Hickory Bark Stool
   
 **Sit Your Ash Down**  
   
-I recently attended the ++[Greenwood Wrights Fest 2022](https://greenwoodwrightsfest.com/)++ and took the “Stool Making with Terry Ratliff” class where we made a Hickory Bark and Ash Stool. This was a very informative and fun class and Terry was an excellent instructor. I ended up finishing my stool at home by weaving the hickory bark seat. Thankfully, I had exactly enough bark to seat my stool ( my stool was a fair bit larger than the example stool). These are made with a very few and basic tools (Axe, Maul, Wedge, Draw knife, Shaving Horse, and sloyd knife) but the design is highly evolved.  
+I recently attended the [Greenwood Wrights Fest 2022](https://greenwoodwrightsfest.com/) and took the “Stool Making with Terry Ratliff” class where we made a Hickory Bark and Ash Stool. This was a very informative and fun class and Terry was an excellent instructor. I ended up finishing my stool at home by weaving the hickory bark seat. Thankfully, I had exactly enough bark to seat my stool ( my stool was a fair bit larger than the example stool). These are made with a very few and basic tools (Axe, Maul, Wedge, Draw knife, Shaving Horse, and sloyd knife) but the design is highly evolved.  
   
 We started by splitting and then riving out the billets for our legs. We shaped the legs with and axe and then on the shaving horse with the drawknife. You start by making a square leg a little larger that an 1 1/2″ on a side. The you make the square an octagon and your done. You make the rungs about 3/4″ from smaller stock and make the ends 11/16 round. The top rungs (where the seat is woven) you make in a wing like shape.  
   
