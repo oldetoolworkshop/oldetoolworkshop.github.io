@@ -10,15 +10,19 @@ tags:
 author: "Aaron Henderson"
 ---
 
+<figure>
+  <img src="/img/2021/01/richter-stemmeisen-331182-624x351.jpg" alt="Narex Richter" align="left" width="600">
+   <br clear="left"/>
+  <figcaption><i>Narex Richter - See it's surprising test result in James Wright's Chisel Test - link below</i></figcaption>
+</figure>
 
-![](../../../../wp-content/uploads/2021/01/richter-stemmeisen-331182.jpg)Narex Richter - See it's surprising test result in James Wright's Chisel Test - link below
 
 ## Chisels
 
 Back in my early days while beginning my woodworking journey, I believed a chisel was a chunk of metal with a plastic handle. You'd pound them mercilessly to remove wood during construction. They were not precious or even to be well cared for. They were a rough tool, to be used and abused and forgotten about after the work was done.
 
-  * ![](../../../../wp-content/uploads/2021/01/IMG_1382-scaled.jpg)Set of Vintage Stanley Handyman Chisels
-  * ![](../../../../wp-content/uploads/2021/01/IMG_1379-scaled.jpg) _Vintage Stanley Handyman Chisel_ Detail
+  ![](/img/2021/01/IMG_1382-scaled.jpg)Set of Vintage Stanley Handyman Chisels
+  ![](/img/2021/01/IMG_1379-scaled.jpg) _Vintage Stanley Handyman Chisel_ Detail
 
 
 
@@ -26,7 +30,7 @@ My enlightenment began slowly. Yes, I had seen Roy Underhill use them to great e
 
 I went home determined to "tune" my Stanley chisel set, but then I though to myself, maybe if I got a new set and sharpened those I'd be in business. So I purchased a new Buck Bros. Set. I had studied up on sharpening a bit on the internet and discovered the "Scary Sharp" sharpening method using sandpaper. 
 
-![](../../../../wp-content/uploads/2021/01/IMG_1387-scaled.jpg)Buck Bros Chisel - Not Recommended
+![](/img/2021/01/IMG_1387-scaled.jpg)Buck Bros Chisel - Not Recommended
 
 Now armed with my new set of chisels and my newfound sharpening knowledge, I went to town sharpening these so-called chisels. After sharpening them, I excitedly started testing them on the edge of some soft pine and they cut it like butter. This is what I wanted, so I started a new project (using white pine) with them. It was't long before I noticed they weren't as sharp as when I started and then I looked at them closely with a magnifying lens. They looked like I had be pounding them into concrete. The teeth were jagged and chipped. Remember, this is soft pine (no knots either).
 
@@ -34,8 +38,8 @@ So I did the obvious, I resharpened them again and they had a beautiful gleaming
 
 I had some old chisels I had been collecting for the past couple of years. I started cleaning them up and sharpening them. Some needed new handles, so I made some crude ones to get going (I made better handles later after I got my lathe.) I started using these old chisels and they were orders of magnitude better that those lumps of crappy metal and plastic with a label that said "Chisel". They took a wonderful edge and kept it. They cut through pine, walnut, cherry, hickory and hard maple and kept on going. Now I was getting somewhere. 
 
-  * ![](../../../../wp-content/uploads/2021/01/IMG_1332-scaled.jpg)Modern LN Bevel Edge Chisels
-  * ![](../../../../wp-content/uploads/2021/01/IMG_1334-scaled.jpg)Misc Vintage Chisels
+  * ![](/img/2021/01/IMG_1332-scaled.jpg)Modern LN Bevel Edge Chisels
+  * ![](/img/2021/01//IMG_1334-scaled.jpg)Misc Vintage Chisels
 
 
 
@@ -54,7 +58,7 @@ There are several types of chisels available to the modern woodworker as I own j
 
 
 
-![](../../../../wp-content/uploads/2021/01/IMG_1333-scaled.jpg)_Mortise Chisels -_ Left to Right - LN 1/2″, 3/8″ and Vintage 1/4″ with homemade maple handle 
+![](/img/2021/01/IMG_1333-scaled.jpg)_Mortise Chisels -_ Left to Right - LN 1/2″, 3/8″ and Vintage 1/4″ with homemade maple handle 
 
 There are three basic types of Western chisel handles:
 
@@ -66,8 +70,8 @@ There are three basic types of Western chisel handles:
 
 I believe the Socket chisels are more robust, but people also swear by the Tang type too. As I have a lathe, handle creation for socket chisels is very easy and I have made quite a few handles over the years. You can see me [rescue a Union Chisel in this video](<https://youtu.be/xZTNW186qmU>). If you don't have a lathe, it may be easier to make handles for the tang variety. I just remember making a tang handle for a morticing chisel I used to own and it was a real challenge for me and I cracked the handle after I was almost through making it. 
 
-  * ![](../../../../wp-content/uploads/2021/01/IMG_1336-1-scaled.jpg)Vintage Incannel Gouges
-  * ![](../../../../wp-content/uploads/2021/01/IMG_1335-scaled.jpg)Vintage Outcannel Gouges
+  * ![](/img/2021/01/IMG_1336-1-scaled.jpg)Vintage Incannel Gouges
+  * ![](/img/2021/01/IMG_1335-scaled.jpg)Vintage Outcannel Gouges
 
 
 
@@ -90,5 +94,5 @@ Aaron
 
 Copyright 2021 © W. A. Henderson
 
-This entry was posted in [New Tools](<../../../../category/tools/new-tools/index.html>), [Tools](<../../../../category/tools/index.html>), [vintage tools](<../../../../category/tools/vintage-tools/index.html>) and tagged [Bevel Edge Chisel](<../../../../tag/bevel-edge-chisel/index.html>), [Chisel](<../../../../tag/chisel/index.html>), [Mortise](<../../../../tag/mortise/index.html>), [Mortise Chisel](<../../../../tag/mortise-chisel/index.html>) on [January 10, 2021](<index.html> "8:00 am") by [OldeToolWorkshop](<../../../../author/oldetoolworkshop/index.html> "View all posts by OldeToolWorkshop"). 
+This entry was posted on [January 10, 2021](<index.html> "8:00 am") by [OldeToolWorkshop](<../../../../author/oldetoolworkshop/index.html> "View all posts by OldeToolWorkshop"). 
 
