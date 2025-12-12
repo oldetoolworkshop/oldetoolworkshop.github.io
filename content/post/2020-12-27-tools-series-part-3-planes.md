@@ -12,7 +12,7 @@ tags:
 author: "Aaron Henderson"
 ---
 
-![](../../../../wp-content/uploads/2020/12/IMG_2795-cropped-scaled.jpg)Lie-Nielsen No. 4 Bronze Bodied Smoothing Plane
+![](/img/2020/12/IMG_2795-cropped-scaled.jpg)Lie-Nielsen No. 4 Bronze Bodied Smoothing Plane
 
 **09-Jan-2021** **Update:** James Wright has recently released his comprehensive "[Plane Iron Test Results Fast And To The Point](<https://youtu.be/DykzsRWznro>)" video. Do yourself a favor and watch this. You'll be glad you did. I recently bought the Veritas PM-V11 2″ Blade for one of my smoothing planes based on his test results. 
 
@@ -20,7 +20,7 @@ Planes and plane collecting can become an obsession. Like saws from my earlier b
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1290-edited-scaled.jpg)Bench Planes from Block to Joiner
+![](/img/2020/12/IMG_1290-edited-768x480.jpg)Bench Planes from Block to Joiner
 
 ## New Vs. Old 
 
@@ -36,7 +36,7 @@ One other note, [Matt Estlea](<https://mattestlea.com/>) [made a great video](<h
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1296-scaled.jpg)From left to right - Stanley No. 60 1/2 Block Plane, Stanley No. 4 Smoothing Plane, P&C 1940 circa 1962 (rebranded Millers Falls No. 4) , Stanley No. 4 1/2 Smoothing Plane (with Hock Tools PremiumA2 Blade and Cap Iron Set), Stanley No 5 Jack Plane (with radiused blade for stock removal) , Stanley No. 5 Jack Plane (Very slight radiused blade for joining shorter boards), Stanley No. 6 Fore Plane Type 10
+![](/img/2020/12/IMG_1296-768x466.jpg)From left to right - Stanley No. 60 1/2 Block Plane, Stanley No. 4 Smoothing Plane, P&C 1940 circa 1962 (rebranded Millers Falls No. 4) , Stanley No. 4 1/2 Smoothing Plane (with Hock Tools PremiumA2 Blade and Cap Iron Set), Stanley No 5 Jack Plane (with radiused blade for stock removal) , Stanley No. 5 Jack Plane (Very slight radiused blade for joining shorter boards), Stanley No. 6 Fore Plane Type 10
 
 ## Vintage Bench Planes
 
@@ -55,7 +55,7 @@ Vintage planes are great. I love these olde tools and and I love to restore them
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1301-scaled.jpg)Left to right - LN No. 60 1/2 Block Plane, LN No. 4 Smoother, LN No. 5 Jack, Veritas Low Angle Jack, LN No.7 Joiner
+![](/img/2020/12/IMG_1301-768x460.jpg)Left to right - LN No. 60 1/2 Block Plane, LN No. 4 Smoother, LN No. 5 Jack, Veritas Low Angle Jack, LN No.7 Joiner
 
 ## New Bench Planes
 
@@ -69,7 +69,7 @@ No. 4 - Purchased online Nov 2017
 No. 5 - Purchased Sep 2018  
 No. 7 - Purchased July 2011
 
-![](../../../../wp-content/uploads/2020/12/IMG_1313-scaled.jpg)Left to Right Back to front - Veritas RH Skewed Rabbit Plane, LN No. 40 1/2 Scrub Plane. Veritas SM RH Plow Plane, LN No. 073 Large Shoulder Plane, LN No. 71 Router Plane, Vintage Stanley No. 71 Router Plane 
+![](/img/2020/12/IMG_1313-768x499.jpg)Left to Right Back to front - Veritas RH Skewed Rabbit Plane, LN No. 40 1/2 Scrub Plane. Veritas SM RH Plow Plane, LN No. 073 Large Shoulder Plane, LN No. 71 Router Plane, Vintage Stanley No. 71 Router Plane 
 
 ## New Speciality and One Vintage Plane
 
@@ -85,7 +85,7 @@ Here I have the following Lie-Nielsen Planes, No. 71 Large Open Mouth Router Pla
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1305-scaled.jpg) Small Scandinavian Scrub Plane and Wooden Joiner Plane
+![](/img/2020/12/IMG_1305-768x466.jpg) Small Scandinavian Scrub Plane and Wooden Joiner Plane
 
 ## Homemade Planes
 
@@ -104,5 +104,4 @@ Peace,
 
 Aaron
 
-This entry was posted in [Handmade Tools](<../../../../category/tools/tools-i-make/index.html>), [New Tools](<../../../../category/tools/new-tools/index.html>), [Tools](<../../../../category/tools/index.html>), [vintage tools](<../../../../category/tools/vintage-tools/index.html>) on [December 27, 2020](<index.html> "10:46 am") by [OldeToolWorkshop](<../../../../author/oldetoolworkshop/index.html> "View all posts by OldeToolWorkshop"). 
-
+This entry was posted on [December 27, 2020](<index.html> "10:46 am")
