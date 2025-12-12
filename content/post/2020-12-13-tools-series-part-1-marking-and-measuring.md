@@ -28,7 +28,7 @@ author: "Aaron Henderson"
 ---
 
 
-![](../../../../wp-content/uploads/2020/12/IMG_1158-scaled.jpg)
+![](/img/2020/12/IMG_1158-scaled.jpg)
 
 I'm staring a new blog series about my tools, their use and origins. I'm kinda obsessed with my tools. They fascinate me and I just sometimes go into my shop to clean them and marvel at their beauty and design. I would like to say upfront, this is my choice of tools. You may agree or disagree with my choices, but ultimately the tools I choose are my decision and not really subject to anyone else's opinion. I do listen to others about what tools they like and some people with lots of experience I listen very carefully, but I'm not bound to any one philosophy or system or cult of personality. I have made many tool choice mistakes and will make more in the future. But I try to stick to one maxim: "Buy the best and most appropriate tool you can." If you can't afford to purchase a particular tool, make something and sell it to get the money to buy the tool. Sometimes I get lucky and find just the right vintage tool at an estate sale or garage sale, but lately I have been buying new very high-quality tools as I am not necessarily a vintage tool collector. 
 
@@ -38,7 +38,7 @@ This first entry is about my marking and measuring tools. Like all tools present
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1165-scaled.jpg)Left to right - Homemade Scratch Awe. Czech Edge Bird Cage Awe, Czech Edge Scratch Awe. All three have Cocobolo handles
+![](/img/2020/12/IMG_1165-scaled.jpg)Left to right - Homemade Scratch Awe. Czech Edge Bird Cage Awe, Czech Edge Scratch Awe. All three have Cocobolo handles
 
 ## Awes
 
@@ -46,7 +46,7 @@ Awes are a group of tools that have a pretty wide variety of shapes, sizes and u
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1164.jpg)Left to right, top to bottom: Vintage 6″ Compass (has insert that can double as a set of dividers) Modern 6″ Starrett, Vintage 6″ Unknown, and Vintage 4″ B&S Mfg. Co. (I'm looking for a knob for the top).
+![](/img/2020/12/IMG_1164.jpg)Left to right, top to bottom: Vintage 6″ Compass (has insert that can double as a set of dividers) Modern 6″ Starrett, Vintage 6″ Unknown, and Vintage 4″ B&S Mfg. Co. (I'm looking for a knob for the top).
 
 ## Dividers
 
@@ -54,7 +54,7 @@ Speaking of pointy tools, above is my collection of old and new dividers. I have
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1167-1-scaled.jpg)Left to right - 1-Tite Mark cutting gauge, 2-Veritas cutting gauge, 3 and 4-Vintage mortice gauges .
+![](/img/2020/12/IMG_1167-1-scaled.jpg)Left to right - 1-Tite Mark cutting gauge, 2-Veritas cutting gauge, 3 and 4-Vintage mortice gauges .
 
 ## Marking Gauges
 
@@ -62,7 +62,7 @@ Marking Gauges are very handy for layout work. Having more than one is quite han
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1173-scaled.jpg)Left Veritas Angle Finder, 1, 2, 5, 6 Vintage Bevel Gauges, 3-Woodpeckers 7″ Bevel Gauge, 4-Stanley N0. 18 Bevel Gauge
+![](/img/2020/12/IMG_1173-scaled.jpg)Left Veritas Angle Finder, 1, 2, 5, 6 Vintage Bevel Gauges, 3-Woodpeckers 7″ Bevel Gauge, 4-Stanley N0. 18 Bevel Gauge
 
 ## Bevel Gauges
 
@@ -70,7 +70,7 @@ Bevel gauges help you reproduce an angle or cut a specific angle. I may have a b
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1169-scaled.jpg)Top to Bottom - Homemade 9″ Try Square, Starrett 12″ 11H-12-4R Combination Square, Starrett 6″ 11H-6-4R Combination Square
+![](/img/2020/12/IMG_1169-scaled.jpg)Top to Bottom - Homemade 9″ Try Square, Starrett 12″ 11H-12-4R Combination Square, Starrett 6″ 11H-6-4R Combination Square
 
 ## Squares
 
@@ -78,7 +78,7 @@ What can I say about squares? They are great, especially the Starrett combinatio
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1174-scaled.jpg)Veritas Sliding Square, 1-35 year old Klein Tools 12″ tape measure, 2-General Rule 12″ center finding ruler, 3- 1 Meter plastic folding ruler, 4-Vintage Stanley folding ruler, 5-Generic 6″ ruler 
+![](/img/2020/12/IMG_1174-scaled.jpg)Veritas Sliding Square, 1-35 year old Klein Tools 12″ tape measure, 2-General Rule 12″ center finding ruler, 3- 1 Meter plastic folding ruler, 4-Vintage Stanley folding ruler, 5-Generic 6″ ruler 
 
 ## Rules
 
@@ -86,7 +86,7 @@ Rules rule! I mean that. Some people do not see the the need to measure stuff an
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1166-1643x3000.jpg)1-Blue Spruce Small Marking Knife, Ultra Thin Blade, 2-#8 Chip carving Knife, 3-Generic Box Cutter
+![](/img/2020/12/IMG_1166-scaled.jpg)1-Blue Spruce Small Marking Knife, Ultra Thin Blade, 2-#8 Chip carving Knife, 3-Generic Box Cutter
 
 ## Marking Knives
 
@@ -94,7 +94,7 @@ Marking knives are very personal and everyone I talk to has an opinion. I look f
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1172-1515x3000.jpg)1-Ticonderoga #2, 2-White Colored Pencil, 3-Pentel .5mm lead pencil 4-Fisher Space Pen, 5-Double-ended Black Sharpie, 6- Not Pictured - Mechanical Drafting Lead Holder
+![](/img/2020/12/IMG_1172-scaled.jpg)1-Ticonderoga #2, 2-White Colored Pencil, 3-Pentel .5mm lead pencil 4-Fisher Space Pen, 5-Double-ended Black Sharpie, 6- Not Pictured - Mechanical Drafting Lead Holder
 
 ## Writing Implements
 
@@ -102,7 +102,7 @@ I just like using a plain old #2 pencil; it's what I mostly use. I use the white
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1168-scaled.jpg)Top to bottom - English Layout Square made from Chris Schwarz's plans, Straight Edge, Panel Gauge copied from the old Lie-Nielsen model
+![](/img/2020/12/IMG_1168-scaled.jpg)Top to bottom - English Layout Square made from Chris Schwarz's plans, Straight Edge, Panel Gauge copied from the old Lie-Nielsen model
 
 ## More Homemade Tools
 
@@ -110,7 +110,7 @@ I'll say this again, I love making tools and I have used the three above extensi
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1163-1-scaled.jpg)Vintage Trammel Points and a Modern Dovetail Marker
+![](/img/2020/12/IMG_1163-1-scaled.jpg)Vintage Trammel Points and a Modern Dovetail Marker
 
 ## Misc Tools
 
@@ -124,7 +124,7 @@ Peace,
 
 Aaron
 
-![](../../../../wp-content/uploads/2020/12/IMG_1347-scaled.jpg)
+![](/img/2020/12/IMG_1347-scaled.jpg)
 
 ## Post Holiday Update 30-Dec-2020
 
