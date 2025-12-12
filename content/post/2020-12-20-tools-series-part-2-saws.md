@@ -14,13 +14,13 @@ tags:
 author: "Aaron Henderson"
 ---
 
-![](../../../../wp-content/uploads/2020/12/disston_43_high_res_bw.png)_Disston No. 43 Combination Saw_
+![](/img/2020/12/disston_43_high_res_bw.png)_Disston No. 43 Combination Saw_
 
 This week I'll be talking saws. Besides the hammer and knife, the saw is one the oldest human-made tools. Saws come in such great diversity, with different shapes, sizes, type of cut, and tooth geometry. This will be a pretty long blog entry by necessity as I own quite a few different types of saws and they all deserve a explanation of use and a bit of history. I'll be presenting my saws to you, explaining what I use them for and where I got them (if I can remember). Like other tools I own, my saws cover only a fraction of the saw types available. I tend to use the sharpest and fastest cutting saws of any particular type. Saws are only useful when they're sharp. I'm not the best saw sharpener, but I do ok. I'd rather be cutting wood than sharpening saws. Rip saws are pretty easy to sharpen, but crosscut saws are a bit more of an art than science. Don't get me wrong, there's plenty of science in saw geometry, but the actual sharpening is a lot more of a learned skill. Even so, it is one that is best learned if you plan to do any hand sawing of your work. I will include my saw sharpening tools in addition to my saws in this entry. So let's get started.
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1181-scaled.jpg)
+![](/img/2020/12/IMG_1181-scaled.jpg)
 
 ## Coping Saws
 
@@ -28,7 +28,7 @@ My newest acquisition is the [Knew Concepts Coping Saw](<https://www.knewconcept
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1183-scaled.jpg)
+![](/img/2020/12/IMG_1183-scaled.jpg)
 
 ## Turning Saw
 
@@ -38,7 +38,7 @@ This saw is very similar to the Coping Saw but it does heavier work with its lon
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1186-scaled.jpg)
+![](/img/2020/12/IMG_1186-scaled.jpg)
 
 ## Panel Saws
 
@@ -46,7 +46,7 @@ The two saws here are new from [Lie-Nielsen](<https://www.lie-nielsen.com/>). Th
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1207-scaled.jpg)
+![](/img/2020/12/IMG_1207-scaled.jpg)
 
 ## Dovetail Saws
 
@@ -54,7 +54,7 @@ I love dovetail saws. There is something about the way they cut so precisely and
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1202-scaled.jpg)
+![](/img/2020/12/IMG_1202-scaled.jpg)
 
 ## Tenon Saws
 
@@ -62,7 +62,7 @@ This saw is easy to sharpen and great to use. It does not see a lot of use in my
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1179-scaled.jpg)
+![](/img/2020/12/IMG_1179-scaled.jpg)
 
 ## Carcase Saws
 
@@ -70,7 +70,7 @@ The two of these are nice vintage crosscut Carcase Saws. The first one was made 
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1191-scaled.jpg)
+![](/img/2020/12/IMG_1191-scaled.jpg)
 
 ## Flush Trim Saws
 
@@ -78,7 +78,7 @@ Used to trim flush. The first one is a cheap box store saw with a handle I turne
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1192-scaled.jpg)
+![](/img/2020/12/IMG_1192-scaled.jpg)
 
 ## Keyhole Saw
 
@@ -86,7 +86,7 @@ I don't use it much, but when I need it, it's very nice to have. This is a vinta
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1193-scaled.jpg)
+![](/img/2020/12/IMG_1193-scaled.jpg)
 
 ## Saw Restoration
 
@@ -94,7 +94,7 @@ I'd like to take a minute to talk about saw restoration. I have purchased and ac
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1195-scaled.jpg)
+![](/img/2020/12/IMG_1195-scaled.jpg)
 
 ## Modern Saws
 
@@ -102,7 +102,7 @@ They have their place but I dislike the handles. I'd hate to see what the creatu
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1196-scaled.jpg)
+![](/img/2020/12/IMG_1196-scaled.jpg)
 
 ## Vintage Panel Saws
 
@@ -112,7 +112,7 @@ Above are two saws I restored a few years ago. They are both Disstons; the top o
 
 * * *
 
-![](../../../../wp-content/uploads/2020/12/IMG_1197-scaled.jpg)
+![](/img/2020/12/IMG_1197-scaled.jpg)
 
 ## Saw Sharpening
 
@@ -124,4 +124,4 @@ Peace,
 
 Aaron
 
-This entry was posted in [Handmade Tools](<../../../../category/tools/tools-i-make/index.html>), [New Tools](<../../../../category/tools/new-tools/index.html>), [Tools](<../../../../category/tools/index.html>), [vintage tools](<../../../../category/tools/vintage-tools/index.html>) on [December 20, 2020](<index.html> "12:24 pm") by [OldeToolWorkshop](<../../../../author/oldetoolworkshop/index.html> "View all posts by OldeToolWorkshop"). 
+This entry was posted on [December 20, 2020](<index.html> "12:24 pm")
