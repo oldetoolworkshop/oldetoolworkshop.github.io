@@ -51,4 +51,5 @@ So whether you’re flattening boards with a #7 jointer plane or gluing up MDF f
 Let’s support each other, learn from each other, and make things, beautiful, ugly, perfect, imperfect, that speak to us.  
   
 Thanks for reading. I’d love to hear what you’re working on, whether it’s with a chisel or a table saw. Drop a comment below and share your project!  
-This entry was posted in ++[Tools](https://oldetoolworkshop.com/category/tools/index.html)++ on ++[July 28, 2025](https://oldetoolworkshop.com/2025/07/28/why-we-do-it-a-reflection-on-traditional-hand-tool-woodworking/index.html)++ by ++[OldeToolWorkshop](https://oldetoolworkshop.com/author/oldetoolworkshop/index.html)++.  
+
+This entry was posted on [July 28, 2025](https://oldetoolworkshop.com/2025/07/28/why-we-do-it-a-reflection-on-traditional-hand-tool-woodworking/index.html)
