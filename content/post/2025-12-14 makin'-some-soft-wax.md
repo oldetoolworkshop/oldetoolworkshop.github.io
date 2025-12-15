@@ -23,6 +23,8 @@ The great thing about making your own soft wax is that there are no harsh chemic
 
 Soft Wax Recipe (Fine Woodworking) – Chris Schwarz’s detailed version of the [Lost Art Press recipe.](https://www.finewoodworking.com/2025/09/25/chris-schwarzs-soft-wax-recipe "Lost Art Press recipe.")
 
+The recipe is also included in Chris's book "American Peasant," which he provides the [downloadable PDF](https://blog.lostartpress.com/wp-content/uploads/2024/07/American-Peasant-July-2024.pdf) for free. Just search for "soft wax.” This is a wonderful book, BTW, and I suggest you buy the hard copy too to support this company that does so much for our hobby/craft/vocation!
+
 Here is the [Lost Art Press YouTube Video](https://youtu.be/vgNifdUXfag?si=WrFasIrsFL5xxDhb) on making soft wax.
 
 {{< youtube vgNifdUXfag >}}
