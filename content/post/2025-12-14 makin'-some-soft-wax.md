@@ -13,7 +13,11 @@ author: "Aaron Henderson"
 
 ![Soft Wax](/img/2025/12/lap-soft-wax.png "My latest batch of soft wax")
 
-Well, it’s that time of year again when a man’s thoughts turn to soft wax. I decided to make up a fresh batch today, as I had all the materials according to Lost Art Press’s recipe, which calls for 2 cups of boiled linseed oil, 108 g of food-grade beeswax, and 4 tablespoons of citrus solvent. I added an extra tablespoon of solvent because I wanted my wax just a little bit softer.
+
+Well, it’s that time of the year when a man’s thoughts turn to soft wax. Homemade soft wax is an indispensable component in any traditional woodworking shop. It’s safe, easy to use, and has a lot of applications. 
+
+
+I decided to make up a fresh batch today, as I had all the materials according to Lost Art Press’s recipe, which calls for 2 cups of boiled linseed oil, 108 g of food-grade beeswax, and 4 tablespoons of citrus solvent. I added an extra tablespoon of solvent because I wanted my wax just a little bit softer.
 
 The great thing about making your own soft wax is that there are no harsh chemicals, and you don’t have to put on a mask or worry about ventilation when you apply it. Some commercial waxes contain metallic driers that can be harmful to your health. I highly recommend making some homemade soft wax for yourself, as it’s a great alternative to that big-box store stuff that isn’t so good for you.
 
