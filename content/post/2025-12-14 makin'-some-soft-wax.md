@@ -23,7 +23,9 @@ The great thing about making your own soft wax is that there are no harsh chemic
 
 Soft Wax Recipe (Fine Woodworking) – Chris Schwarz’s detailed version of the [Lost Art Press recipe.](https://www.finewoodworking.com/2025/09/25/chris-schwarzs-soft-wax-recipe "Lost Art Press recipe.")
 
-The LAP YouTube Video [here.](https://youtu.be/vgNifdUXfag?si=WrFasIrsFL5xxDhb)
+Here is the [Lost Art Press YouTube Video](https://youtu.be/vgNifdUXfag?si=WrFasIrsFL5xxDhb) on making soft wax.
+
+{{< youtube vgNifdUXfag >}}
 
 ### Getting it all together ###
 
@@ -43,7 +45,7 @@ I use soft wax for many different things, including but not limited to coating i
 
 ### Final Thoughts / Links ###
 
-This is an easy project that adds a natural finish to your process. Go ahead and make some for yourself; you’ll be glad you did.  
+I want to thank Lost Art Press for this recipe and everything else they do for the craft! To sum it up, this is a fun and easy project that adds a natural finish to your process. Go ahead and make some for yourself; you’ll be glad you did.  
 
 Links to all the products:
 * [Linseed Oil](https://a.co/d/5OIFZow)
