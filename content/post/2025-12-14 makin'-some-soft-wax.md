@@ -14,7 +14,7 @@ author: "Aaron Henderson"
 ![Soft Wax](/img/2025/12/lap-soft-wax.png "My latest batch of soft wax")
 
 
-Well, it’s that time of the year when a man’s thoughts turn to soft wax. Homemade soft wax is an indispensable component in any traditional woodworking shop. It’s safe, easy to use, and has a lot of applications from coating tools to prevent rust to using it as a finish top coat. 
+Well, it’s that time of the year when a man’s thoughts turn to soft wax. Homemade soft wax is an indispensable component in any traditional woodworking shop. It’s safe, easy to use, and has a lot of applications from coating tools to prevent rust to using it as a milk paint top coat. 
 
 
 I decided to make up a fresh batch today, as I had all the materials according to Lost Art Press’s recipe, which calls for 2 cups of boiled linseed oil, 108 g of food-grade beeswax, and 4 tablespoons of citrus solvent. I added an extra tablespoon of solvent because I wanted my wax just a little bit softer.
@@ -60,5 +60,9 @@ Let me know if you’ve made or are considering making your own soft wax.
 Peace,
 
 Aaron
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y51QC0UC)
+
 
 This entry was posted on [December 15, 2025](<index.html> "8:16 am")
