@@ -21,9 +21,9 @@ I decided to make up a fresh batch today, as I had all the materials according t
 
 The great thing about making your own soft wax is that there are no harsh chemicals, and you don’t have to put on a mask or worry about ventilation when you apply it. Some commercial waxes contain metallic driers that can be harmful to your health. I highly recommend making some homemade soft wax for yourself, as it’s a great alternative to that big-box store stuff that isn’t so good for you.
 
-Here is the link to the recipe over at Fine Woodworking Magizine written by Lost Art Press: https://www.finewoodworking.com/2025/09/25/chris-schwarzs-soft-wax-recipe
+Soft Wax Recipe (Fine Woodworking) – Chris Schwarz’s detailed version of the [Lost Art Press recipe.](https://www.finewoodworking.com/2025/09/25/chris-schwarzs-soft-wax-recipe "Lost Art Press recipe.")
 
-Video here --> https://youtu.be/vgNifdUXfag?si=WrFasIrsFL5xxDhb
+The LAP YouTube Video [here.](https://youtu.be/vgNifdUXfag?si=WrFasIrsFL5xxDhb)
 
 ### Getting it all together ###
 
@@ -39,12 +39,16 @@ I put the linseed oil in a large tin can and used it as a double boiler, and add
 
 ### Uses for soft wax ###
 
-I use soft wax for many different things, including but not limited to coating high-carbon steel tools to prevent rust, reconditioning leather sheaths and other leather items, and even treating my leather boots. It can also be used over milk paint as a finish, which is very easy to apply and nearly foolproof.
+I use soft wax for many different things, including but not limited to coating iron and high-carbon steel tools to prevent rust, reconditioning leather sheaths and other leather items, and even treating my leather boots. It can also be used over milk paint as a finish, which is very easy to apply and nearly foolproof.
+
+### Final Thoughts / Links ###
+
+This is an easy project that adds a natural finish to your process. Go ahead and make some for yourself; you’ll be glad you did.  
 
 Links to all the products:
-* Linseed Oil - https://a.co/d/5OIFZow
-* Citrus Solvent - https://a.co/d/3zeMAN5
-* Bees Wax - https://a.co/d/3q9ffbC
+* [Linseed Oil](https://a.co/d/5OIFZow)
+* [Citrus Solvent](https://a.co/d/3zeMAN5)
+* [Bees Wax](https://a.co/d/3q9ffbC)
 
 
 Let me know if you’ve made or are considering making your own soft wax.
