@@ -4,56 +4,12 @@
     {{ if .Site.Params.reward_guide }}
 	    <p> 「{{ .Site.Params.reward_guide }}」</p>
 	{{ else }}
-       [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y51QC0UC)
+	   <a href="https://ko-fi.com/Y8Y51QC0UC" style="font-size: 150%; font-weight: bold;">
+	       Coffee Fund Donations are Welcome and Appreciated!
+	   </a>
 	{{ end }}
 	
-    <button class="zs show-zs btn btn-bred">Coffee Donations Welcome</button>
+    <a href="https://ko-fi.com/Y8Y51QC0UC">
+    	<img style="cursor: pointer;" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Button for donation">
+	</a>
 </div>
-
-{{/* The Modal Overlay and Box Structure */}}
-<div class="zs-modal-bg"></div>
-<div class="zs-modal-box">
-	<div class="zs-modal-head">
-		<button type="button" class="close">×</button>
-		<span class="author"><a href="{{ .Site.BaseURL }}"><img src="{{ "img/favicon.png" | relURL}}" />{{ .Site.Title }}</a></span>
-        
-        {{ if .Site.Params.reward_guide }}
-	        <p class="tip"><i></i><span>{{ .Site.Params.reward_guide }}</span></p>
-		{{ else }}
-	        {{/* Default motivational text translated */}}
-	        <p class="tip"><i></i><span>We sincerly appreciate your support.</span></p>
-		{{ end }}
- 
-	</div>
-	
-	<div class="zs-modal-body">
-		<div class="zs-modal-btns">
-            {{/* Donation Amount Buttons - Keeping data-num for JS */}}
-			<button class="btn btn-blink" data-num="1">1 USD</button>
-			<button class="btn btn-blink" data-num="2">2 USD</button>
-			<button class="btn btn-blink" data-num="5">5 USD</button>
-			<button class="btn btn-blink" data-num="10">10 USD</button>
-			<button class="btn btn-blink" data-num="20">20 USD</button>
-			<button class="btn btn-blink" data-num="1">Custom</button>
-		</div>
-		
-		<div class="zs-modal-pay">
-			<button class="btn btn-bred" id="pay-text">2 USD</button>
-			<p>Use <span id="pay-type">WeChat</span> to scan the QR code and complete your donation.</p>
-			<img src="{{ "img/reward/my-qrcode1.png" | relURL }}"  id="pay-image"/>
-		</div>
-	</div>
-	
-	<div class="zs-modal-footer">
-		<label>
-            <input type="radio" name="zs-type" value="wechat" class="zs-type" checked="checked">
-            <span><span class="zs-wechat"><img src="{{ "img/reward/my-qrcode2.png" | relURL }}"/></span></span>
-        </label>
-		<label>
-            <input type="radio" name="zs-type" value="alipay" class="zs-type">
-            <span><img src="{{ "img/reward/mtqrcode1.png" | relURL }}"/></span>
-        </label>
-	</div>
-</div>
-
-<script type="text/javascript" src="{{ "js/reward.js" | relURL }}"></script>

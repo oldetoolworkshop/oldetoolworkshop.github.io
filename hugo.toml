@@ -63,7 +63,7 @@ home = ["HTML", "RSS", "Algolia"]
   artalk_site = "xxx blog"
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = false 
+  reward = true
   # reward_guide = "" 
 
   friends = true
