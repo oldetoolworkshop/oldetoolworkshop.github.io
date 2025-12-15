@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Makin' Me Some Soft Wax"
-date: 2025-12-14T1:00:00-05:00
+date: 2025-12-15T1:00:00-05:00
 draft: false
-publishedDate: 2025-12-14
+publishedDate: 2025-12-15
 tags: 
     - soft wax
     - finishing
@@ -35,7 +35,7 @@ I put the linseed oil in a large tin can and used it as a double boiler, and add
 
 ### Uses for soft wax ###
 
-I use soft wax for many different things, including—but not limited to—coating high-carbon steel tools to prevent rust, reconditioning leather sheaths and other leather items, and even treating my leather boots. It can also be used over milk paint as a finish, which is very easy to apply and nearly foolproof.
+I use soft wax for many different things, including but not limited to coating high-carbon steel tools to prevent rust, reconditioning leather sheaths and other leather items, and even treating my leather boots. It can also be used over milk paint as a finish, which is very easy to apply and nearly foolproof.
 
 Links to all the products:
 * Linseed Oil - https://a.co/d/5OIFZow
