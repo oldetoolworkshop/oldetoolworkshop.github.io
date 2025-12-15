@@ -62,7 +62,7 @@ Peace,
 Aaron
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y51QC0UC)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg "Coffee Fund Doantions Welcome and Appreciated" )](https://ko-fi.com/Y8Y51QC0UC)
 
 
 This entry was posted on [December 15, 2025](<index.html> "8:16 am")
