@@ -9,7 +9,7 @@ author: "oldetool"
 
 Some random thoughts go here:
 
-* Future plane
+* Future plans
 * Trips
 * Woodworking News
 * Cool Tools
