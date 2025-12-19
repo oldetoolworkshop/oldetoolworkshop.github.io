@@ -13,10 +13,9 @@ author: "Aaron Henderson"
 ---
 
 
-<img src="/img/2025/07/planes.png" alt="Stanley Bedrocks" align="left" width="600">
-<br clear="left"/>
+![Planes](img/2025/07/planes.png Notice the Cherry Tote and Knob on the 605, It had cracked and damaged ones so I made my own.)
+        
 
-*Notice the Cherry Tote and Knob on the 605, It had cracked and damaged ones so I made my own.*  
 
 #### Bedrock Planes  
 
