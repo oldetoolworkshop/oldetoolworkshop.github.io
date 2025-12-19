@@ -1,2 +1,8 @@
 .hugo_build.lock
-/public/
+# /public/
+
+# Ignore the entire public directory
+/public/*
+
+# Exception: Allow the 'pagefind' subdirectory within public
+!/public/pagefind/
