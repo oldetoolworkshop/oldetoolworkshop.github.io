@@ -8,7 +8,7 @@ tags:
     - workbench
     - tool series
     - roubo
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 [![The competed machine - What a beauty!](/img/2013/06/lathe_in_action.jpg "The competed machine - What a beauty")](</img/2013/06/lathe_in_action.jpg>)

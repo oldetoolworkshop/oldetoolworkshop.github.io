@@ -7,7 +7,7 @@ categories: ["Workshop"]
 publishDate: 2025-07-28
 tags: 
     - Discussion
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 **Why We Do It: A Reflection on Traditional Hand Tool Woodworking**  

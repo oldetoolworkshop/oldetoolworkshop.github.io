@@ -6,7 +6,7 @@ draft: false
 publishDate: 2015-01-08
 tags: 
     - end tables
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 In an effort to expand my experience with building larger woodworking projects, I am starting this new year making some furniture pieces. I do not want to go totally crazy, so I am starting on two Shaker end tables featured in the [September 2004 Issue of Woodworking Magazine](<https://web.archive.org/web/20060318043512/http://www.woodworking-magazine.com/blog/CategoryView,category,WM%20Issue%202-Autumn%202004.aspx>). This article goes into great detail on building this popular and timeless design. The Shaker style has an appeal to woodworkers, as it is functional, very stylish and pretty strait forward to build. I decided to build two end tables so that I could maximize my wood use and match the pair using the same wood for the whole project.

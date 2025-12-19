@@ -8,7 +8,7 @@ tags:
     - miters
     - dovetails
     - saw box
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 With some trepidation I went headlong into the fabrication of my Saw Box lid. The challenge came from the the geometry of the corner joint for the lid. By mounting the top board in a groove in the frame boards, the only way to conceal the groove would be to use a mitre joint.
 

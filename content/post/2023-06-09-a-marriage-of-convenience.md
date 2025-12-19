@@ -7,7 +7,7 @@ categories: ["Workshop"]
 publishDate: 2023-06-09
 tags: 
     - 3D Printing
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 <img src="/img/2023/06/stanley-no-3.png" alt="Stanley No. 3" align="left" width="600">

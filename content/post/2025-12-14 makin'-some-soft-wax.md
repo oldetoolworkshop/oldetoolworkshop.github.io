@@ -7,7 +7,7 @@ publishedDate: 2025-12-15
 tags: 
     - soft wax
     - finishing
-author: "Aaron Henderson" 
+author: "oldetool" 
 ---
 
 

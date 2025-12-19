@@ -8,7 +8,7 @@ tags:
     - finishing
     - cabinet
     - milk paint
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 ![](/img/2018/05/Pine-Cabinet-scaled.jpg)

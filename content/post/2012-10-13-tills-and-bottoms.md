@@ -8,7 +8,7 @@ tags:
     - saw box
     - tools
     - saws
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 This was a very productive week with my Saw Box. I finished the main carcass of the box; I tuned and fit the dovetails, glued it up and attached the bottom board…twice (more on that later). I ordered and received my hasp from Lee-Valley tools. This is a big chunk of brass, and it will look great on my saw box. I still need to order the hinges and handles from Horton Brasses.
 

@@ -9,7 +9,7 @@ tags:
     - Workshop setup
     - Garage
     - New Space
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 <img src="/img/2012/04/myshop1.jpg" alt="My garage shop" align="left" width="600">

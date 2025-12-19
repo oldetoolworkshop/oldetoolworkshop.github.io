@@ -6,7 +6,7 @@ draft: false
 publishDate: 2012-08-11
 tags: 
     - workshop
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 [![](/img/2012/08/workshop.jpg)](</img/2012/08/workshop.jpg>)
 

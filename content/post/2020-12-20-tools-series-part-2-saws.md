@@ -11,7 +11,7 @@ tags:
     - back saws
     - turning saws
     - flush cut saws
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 ![](/img/2020/12/disston_43_high_res_bw.png)_Disston No. 43 Combination Saw_

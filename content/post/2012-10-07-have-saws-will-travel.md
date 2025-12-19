@@ -8,7 +8,7 @@ tags:
     - saw box
     - tills
     - saws
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 A few Saturdays ago, I attended the Midwest Tool Collector's Association ([MWTCA](<http://www.mwtca.org/>)) tool meet, and finished acquiring all the tools listed in The Anarchist's Tool Chest ([ATC](<http://www.lostartpress.com/The_Anarchist_s_Tool_Chest_p/bk-atc.htm>)) book, yea! I can fit almost all of my tools in my traveling version of the ATC, except my saws. So I got to thinking that I currently did not have a good way to store or transport my saws. During the MWTCA tool meet, I saw an old military ammo crate that would have almost done the trick. I did not buy the crate…because I thought it would be more fun to build my own!
 

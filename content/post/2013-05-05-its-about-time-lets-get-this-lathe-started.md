@@ -8,7 +8,7 @@ tags:
     - sprint pole lathe
     - turning
     - Roy Underhill
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 

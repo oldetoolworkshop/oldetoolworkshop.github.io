@@ -7,7 +7,7 @@ categories: ["Workshop"]
 publishDate: 2022-04-30
 tags: 
     - Stool Making
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 <img src="/img/2022/04/ash-stool.png" alt="Hickory Bark Stool " align="left" width="600">

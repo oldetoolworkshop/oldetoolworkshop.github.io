@@ -8,7 +8,7 @@ tags:
     - workbench
     - workbench series
     - roubo
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 ![Split-Top Roubo in all it's glory](/img/2020/11/IMG_1100-copy-2-2048x1330.jpg)Kiki inspecting Roubo Workbench

@@ -8,7 +8,7 @@ tags:
     - marking gauge
     - marking and measuring
     - tool mods
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 It all started when I followed Chris Schwarz's advice and bought the [Glen-Drake Tite-Mark](<http://play-glen-drake.com/v-web/ecommerce/os/catalog/product_info.php?cPath=24&products_id=37> "Glen-Drake Tite-Mark marking gauge") marking gauge.
 

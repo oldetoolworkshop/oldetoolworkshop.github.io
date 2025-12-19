@@ -8,7 +8,7 @@ tags:
     - brass hammer
     - hammer
     - MWTCA
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 You might not know it, but I have been looking for a brass hammer for some time now. I need a brass hammer to tap my wooden plane's irons to set them at just the right cutting depth.

@@ -9,7 +9,7 @@ tags:
     - bench planes
     - moulding planes
     - block planes
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 ![](/img/2020/12/IMG_2795-cropped-scaled.jpg)Lie-Nielsen No. 4 Bronze Bodied Smoothing Plane

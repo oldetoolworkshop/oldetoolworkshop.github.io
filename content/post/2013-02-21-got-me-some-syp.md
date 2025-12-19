@@ -8,7 +8,7 @@ tags:
     - lathe
     - spring pole lathe
     - southern yellow pine
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 [![](/img/2013/02/instructions-300x225.jpg)](</img/2013/02/instructions.jpg>)

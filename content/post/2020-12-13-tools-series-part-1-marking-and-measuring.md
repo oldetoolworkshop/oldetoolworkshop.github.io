@@ -24,7 +24,7 @@ tags:
     - craft-philosophy
     - tool-collecting
     - shop-notes
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 

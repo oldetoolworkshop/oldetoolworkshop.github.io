@@ -9,7 +9,7 @@ tags:
     - workbench series
     - roubo
     - bench dog
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 ![](/img/2020/05/bench_dog-2-scaled.jpg)_First dog closest to vise_

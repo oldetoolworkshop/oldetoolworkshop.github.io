@@ -6,7 +6,7 @@ draft: false
 publishDate: 2012-05-21
 tags: 
     - workshop
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 [![](/img/2012/05/new_shop01-209x300.jpg)](</img/2012/05/new_shop01.jpg>)
 
@@ -30,6 +30,6 @@ I know this is not really a woodworking project per se, but it will allow me to 
 
 My next project after getting my shop situated will be to make a "proper" workbench. This, of course, will be chronicled here for your amusement.
 
-- Aaron Henderson
+- oldetool
 
 This entry was posted on [May 21, 2012](<index.html> "10:29 am")

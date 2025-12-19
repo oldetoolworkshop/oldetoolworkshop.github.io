@@ -8,7 +8,7 @@ tags:
     - workbench
     - tool series
     - roubo
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 [![2013-05-26 20.53.36](/img/2013/05/2013-05-26-20.53.36.jpg)](</img/2013/05/2013-05-26-20.53.36.jpg>) A few weeks ago, I posted some pictures of my spring pole lathe and the great progress I was making. Well, as always, life happens, and manages to alter the best laid plans of men. The lathe was to a point where it was looking really good. After chopping out the mortises, I noticed a bit of stiffness in my arm. I stopped working for the day and rested for the night. My arm was very swollen and I could not fully flex it. Where does the "Spring Pole Bookshelf" come in you may ask? Please bear with me and I will explain.

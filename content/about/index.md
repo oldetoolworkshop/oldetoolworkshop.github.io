@@ -4,7 +4,7 @@ title: "About Me"
 date: 2025-12-10T02:37:00-05:00
 draft: false
 publishDate: 2025-12-10
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 

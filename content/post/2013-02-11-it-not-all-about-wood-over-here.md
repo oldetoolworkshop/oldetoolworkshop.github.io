@@ -8,7 +8,7 @@ tags:
     - leather work
     - wallet
     - tools
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 [![](/img/2013/02/wallet02-300x225.jpg)](</img/2013/02/wallet02.jpg>)[![](/img/2013/02/wallet01-300x225.jpg)](</img/2013/02/wallet01.jpg>)

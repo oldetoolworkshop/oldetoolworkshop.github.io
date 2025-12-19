@@ -8,7 +8,7 @@ tags:
     - spring pole lathe
     - lathe
     - woodwright's school
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 [![André Roubo's illustration of a Spring Pole Lathe](/img/2013/02/Spring_Pole_Lathe_Roubo-220x300.jpg)](</img/2013/02/Spring_Pole_Lathe_Roubo.jpg>)[![](/img/2013/02/72746_pole_lathe_md-195x300.gif)](</img/2013/02/72746_pole_lathe_md.gif>)

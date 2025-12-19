@@ -8,7 +8,7 @@ tags:
     - workbench
     - tool series
     - roubo
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 
 ![](/img/2020/01/Stanley_Typw_11_No_6_Plane-1024x768.jpg)Stanley No. 6 Type 11 Fore Plane

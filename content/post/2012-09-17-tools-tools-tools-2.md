@@ -8,7 +8,7 @@ tags:
     - mwtca
     - tools
     - estate sale
-author: "Aaron Henderson"
+author: "oldetool"
 ---
 On Saturday the 15th of September, my brother, Berry, and I went to the [Mid-West Tool Collectors Association](<http://www.mwtca.org/>) annual tool meet here in Raleigh, NC. This is one of my favorite meets as it is not far from my home, the weather is usually not too hot, and there are tons of tools and experts to tell you all about them.
 
