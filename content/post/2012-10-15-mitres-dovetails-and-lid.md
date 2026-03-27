@@ -36,4 +36,3 @@ I have also ordered my butt hinges and handle from [Horton Brasses](<http://www.
 
 -Aaron
 
-This entry was posted on [October 15, 2012](<index.html> "6:00 pm")

@@ -29,4 +29,3 @@ Thanks to Andre Roubo and Lost Art Press, I am back in the workbench building bu
 Peace,  
 -Aaron
 
-This entry was posted on [December 19, 2017](<index.html> "10:31 am")

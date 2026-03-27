@@ -59,4 +59,3 @@ If you would like purchase any of the items I currently make, please visit my [s
 
  
 
-This entry was posted on [March 28, 2014](<index.html> "5:46 pm")

@@ -130,4 +130,3 @@ Aaron
 
 My wonderful wife bought me this beautiful [Acer-Ferrous Toolworks Sector from Red Rose Reproductions](<https://redrosereproductions.com/tools/The-Sector-p144028084>). This is a excellent addition to my measuring and marking kit. I have used it several times since receiving it and it works with precession and ease. 
 
-This entry was posted in [Handmade Tools](<../../../../category/tools/tools-i-make/index.html>), [New Tools](<../../../../category/tools/new-tools/index.html>), [Tools](<../../../../category/tools/index.html>), [vintage tools](<../../../../category/tools/vintage-tools/index.html>) on [December 13, 2020](<index.html> "7:00 am") by [OldeToolWorkshop](<../../../../author/oldetoolworkshop/index.html> "View all posts by OldeToolWorkshop"). 

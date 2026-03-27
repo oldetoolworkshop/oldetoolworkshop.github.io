@@ -13,7 +13,7 @@ author: "oldetool"
 ---
 
 
-![Planes](img/2025/07/planes.png Notice the Cherry Tote and Knob on the 605, It had cracked and damaged ones so I made my own.)
+{{< figure src="/img/2025/07/planes.png" alt="Planes" caption="Notice the Cherry Tote and Knob on the 605 — it had cracked and damaged ones so I made my own." >}}
         
 
 
@@ -27,9 +27,7 @@ In this article, we’ll look at several factors to help you decide whether upgr
 
 I chose to upgrade based on a few key factors. Most of these reasons are discussed below, but primarily, I appreciate the improved adjustability, added weight, build quality, and aesthetic appeal of the Bedrock planes. Tom Lie-Nielsen selected this design as the foundation for his premium line of planes (subsequently copied by many other makers) for a reason. I avoid the earlier types of Bedrock planes, but any of the flattop types should be fine. My preference is from 1920’s types to end of production in the 1930’s. 
   
-As you may see in the photo above, I have upgraded all the chip breakers and plane Irons with newer thicker ones. My two favorite are A2 Hock Blades from [Lee Valley](https://www.leevalley.com/en-us/shop/tools/hand-tools/planes/blades/115586-hock-a2-bench-plane-blades)and CPM Magnacut from [Lake Erie Toolworks](https://lakeerietoolworks.com/collections/handplane-blades).  
-
-As you may see in the photo above, I have upgraded all the chip breakers and plane Irons with newer thicker ones. My two favorite are A2 Hock Blades from [Lee Valley](https://www.leevalley.com/en-us/shop/tools/hand-tools/planes/blades/115586-hock-a2-bench-plane-blades)and CPM Magnacut from [Lake Erie Toolworks](https://lakeerietoolworks.com/collections/handplane-blades).  
+As you may see in the photo above, I have upgraded all the chip breakers and plane Irons with newer thicker ones. My two favorite are A2 Hock Blades from [Lee Valley](https://www.leevalley.com/en-us/shop/tools/hand-tools/planes/blades/115586-hock-a2-bench-plane-blades) and CPM Magnacut from [Lake Erie Toolworks](https://lakeerietoolworks.com/collections/handplane-blades).
 
 You don’t need to upgrade your planes all at once, it’s perfectly fine to take your time. It took me about five years to acquire the ones shown in the photo. I’ve found some good deals and some fair ones, but I don’t think I ever overpaid, because I was selective about what I bought.  
 You probably don’t need the full range of planes from No. 603 to 607, but I personally use all of them—so upgrading all of my existing planes to Bedrocks was an easy decision.  
@@ -38,10 +36,7 @@ If you’re just starting out, a 604 and a 605 make excellent entry points. From
 
 **1. Why Would I Want to Upgrade over regular Stanleys?**  
 
-<img src="/img/2025/07/bedrock_drawing.png" alt="STANLEY 'BED ROCK' PLANES" align="left" width="600">
-<br clear="left"/>
- 
-*Page 68 of the Stanley CATALOGUE No 34*  
+{{< figure src="/img/2025/07/bedrock_drawing.png" alt="STANLEY 'BED ROCK' PLANES" caption="Page 68 of the Stanley CATALOGUE No 34" >}}
 The Stanley Bedrock planes were designed as a premium line for serious woodworkers. Their improvements over standard Bailey style planes include:  
 
 * **More stable frog design** – Bedrock frogs sit on a wide machined surface, reducing chatter and improving blade support.  
@@ -60,9 +55,7 @@ Two large-diameter pins secure the frog in place. These pins have tapered holes 
 Adjusting the mouth for fine or coarse work is quick and easy. Just loosen the clamping screws, reposition the frog using the center adjustment screw, and retighten. No need to remove the iron or lever cap.  
 Finally, the contoured sidewalls of the Bedrock body aren’t just aesthetic—they add stiffness and provide excellent bearing surfaces for shooting work or side use.  
 
-The description of Stanley Bedrock Planes starts at Page 54 in the 1922 edition of the [Stanley Catalogue No 34](https://archive.org/details/stanley-catalogue-34-1922/page/54/mode/1up).  
-
-The description of Stanley Bedrock Planes starts at Page 54 in the 1922 edition of the [Stanley Catalogue No 34](https://archive.org/details/stanley-catalogue-34-1922/page/54/mode/1up).  
+The description of Stanley Bedrock Planes starts at Page 54 in the 1922 edition of the [Stanley Catalogue No 34](https://archive.org/details/stanley-catalogue-34-1922/page/54/mode/1up).
 
 **2. Where Can I Get Them?**  
 
@@ -88,9 +81,7 @@ Prices vary by model and condition, but here are rough ranges for unrestored, us
   
 **Tip:** You can save significantly by purchasing planes that need cleaning and tuning, as long as they’re structurally sound—no major cracks, deep rust pits, or swapped parts.   
 
-**Please note:** **Buyer beware!** You can get great deals on eBay and other auction sites, but make sure the seller takes returns otherwise you may want to pass. Please inspect for any major pitting, cracks, damage, repairs or welds. Check for missing or wrong parts. Ask seller for more detailed photos if not provided. Educate yourself on what a complete and correct Bedrock should look like for the appropriate type.  
-
-**Please note:** **Buyer beware!** You can get great deals on eBay and other auction sites, but make sure the seller takes returns otherwise you may want to pass. Please inspect for any major pitting, cracks, damage, repairs or welds. Check for missing or wrong parts. Ask seller for more detailed photos if not provided. Educate yourself on what a complete and correct Bedrock should look like for the appropriate type.  
+**Please note:** **Buyer beware!** You can get great deals on eBay and other auction sites, but make sure the seller takes returns otherwise you may want to pass. Please inspect for any major pitting, cracks, damage, repairs or welds. Check for missing or wrong parts. Ask seller for more detailed photos if not provided. Educate yourself on what a complete and correct Bedrock should look like for the appropriate type.
 
 **4. How to Clean and Tune a Bedrock Plane**  
 Please watch some of the video content for cleaning and tuning your planes before jumping in and doing it. These are very valuable planes from both a historic and a usage standpoint, so do research and please be respectful of their history. I used to be way more aggressive in my refurbishing of my old planes. As I have more experience, I now take a more minimal approach to getting these antiques into working order.   
@@ -148,4 +139,3 @@ Upgrading to a Stanley Bedrock plane is more than a practical decision—it’s 
 
 And remember, a little rust or grime isn’t a dealbreaker—it’s just the start of a good story.  
 
-This entry was posted on [July 25, 2025]

@@ -35,4 +35,3 @@ I know this project is progressing a bit slowly, but I have never built a workbe
 
 -Aaron
 
-This entry was posted on [October 20, 2015](<index.html> "10:57 am")

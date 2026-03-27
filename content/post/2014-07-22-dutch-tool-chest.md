@@ -42,4 +42,3 @@ Below are a few pictures of the chest.
   
 
 
-This entry was posted on [July 22, 2014](<index.html> "9:38 am")

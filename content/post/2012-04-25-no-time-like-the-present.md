@@ -12,8 +12,7 @@ tags:
 author: "oldetool"
 ---
 
-<img src="/img/2012/04/myshop1.jpg" alt="My garage shop" align="left" width="600">
-<br clear="left"/>
+{{< figure src="/img/2012/04/myshop1.jpg" alt="My garage shop" >}}
 
 #### I'm Movin' my Shop Baby!
 

@@ -38,4 +38,3 @@ Expanded to show each board
 
  
 
-This entry was posted on [November 22, 2015](<index.html> "4:50 pm")

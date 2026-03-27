@@ -38,4 +38,3 @@ I decided to file this small ring flat on the drilled side and slide it back int
 
 -Aaron
 
-This entry was posted on [August 11, 2012](<index.html> "11:13 pm")

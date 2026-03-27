@@ -55,4 +55,3 @@ I do not see the two camps as being mutually exclusive, I happily live in both w
 Peace,  
 -Aaron
 
-This entry was posted on [December 2, 2017](<index.html> "9:03 am")

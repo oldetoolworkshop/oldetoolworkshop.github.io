@@ -124,4 +124,3 @@ Peace,
 
 Aaron
 
-This entry was posted on [December 20, 2020](<index.html> "12:24 pm")

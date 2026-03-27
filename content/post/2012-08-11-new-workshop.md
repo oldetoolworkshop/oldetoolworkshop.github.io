@@ -16,4 +16,3 @@ As with any workshop, this is a work in progress, and there are some additional 
 
 -Aaron
 
-This entry was posted on [August 11, 2012](<index.html> "1:03 pm")

@@ -21,7 +21,6 @@ One of the big challenges for this project is the stock thickness. It is 8/4 or 
 
 [![Rough Stock](/img/2015/01/Rough-Stock-1-1024x768.jpg)](</img/2015/01/Rough-Stock-1.jpg>)
 
-This entry was posted on [January 8, 2015](<index.html> "1:06 pm")
 
 #### Editors Note: 2025-12-13 ####
 

@@ -51,4 +51,3 @@ Next Entry: I will cut the slot and holes for the poles and finish the tail stoc
 
 -Aaron
 
-This entry was posted on [May 5, 2013](<index.html> "8:14 pm")

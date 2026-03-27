@@ -32,4 +32,3 @@ My next project after getting my shop situated will be to make a "proper" workbe
 
 - oldetool
 
-This entry was posted on [May 21, 2012](<index.html> "10:29 am")

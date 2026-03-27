@@ -49,4 +49,3 @@ I cannot wait to get started and I hope you will join me in this fun, and useful
 
 "Keep those Olde Tools sharp"
 
-This entry was posted on [February 12, 2013](<index.html> "10:58 pm")

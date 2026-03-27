@@ -52,4 +52,3 @@ Let’s support each other, learn from each other, and make things, beautiful, u
   
 Thanks for reading. I’d love to hear what you’re working on, whether it’s with a chisel or a table saw. Drop a comment below and share your project!  
 
-This entry was posted on [July 28, 2025](https://oldetoolworkshop.com/2025/07/28/why-we-do-it-a-reflection-on-traditional-hand-tool-woodworking/index.html)

@@ -10,10 +10,7 @@ tags:
 author: "oldetool"
 ---
 
-<img src="/img/2023/06/stanley-no-3.png" alt="Stanley No. 3" align="left" width="600">
-<br clear="left"/>
-
-Stanley Number 3 Type 5 as it was when purchased  
+{{< figure src="/img/2023/06/stanley-no-3.png" alt="Stanley No. 3" caption="Stanley Number 3 Type 5 as it was when purchased" >}}
   
 Up until now, this blog has almost exclusively focused on tools either made in the golden era of woodworking or new tools based on tools from that period. Well, today’s blog will be covering something a bit more modern—something new from the 21st century: 3D printing (I know there was 3D printing in the 20th century, but it was only in this century that it became available to home enthusiasts).  
   
@@ -33,11 +30,7 @@ As a bit of backstory, I have learned how to use 3D modeling software (Onshape) 
   
 After 3 prototype 3D prints, I had my model close enough to be able to cut out and drill my test tote. That is where I am currently. My next step is to cut out my test tote and do a test fit. Then I will make a complete test tote of some wood I have on hand to make sure I can do the final tote. Also, while I was at it, I made a model of the knob as well. So here is a picture of the plane with the 3D printed prototype tote and knob. As I do not like plastic handles on my woodworking tools, these are of course only plastic (PLA) prototypes and not what will end up on the plane.
 
-<img src="/img/2023/06/plastic-handle.png" alt="Stanley No. 3 with PLA Handle" align="left" width="600">
-<br clear="left"/>
-
-Stanley Number 3 Type 5 fitted with PLA test Tote and Knob  
+{{< figure src="/img/2023/06/plastic-handle.png" alt="Stanley No. 3 with PLA Handle" caption="Stanley Number 3 Type 5 fitted with PLA test Tote and Knob" >}}
 
 Be sure to tune in for part two of this story as I make the test tote.  
 
-This entry was posted on [June 9, 2023]

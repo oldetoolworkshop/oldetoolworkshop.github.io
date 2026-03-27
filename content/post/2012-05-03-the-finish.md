@@ -31,4 +31,3 @@ I decided on a smaller chest to hone my dovetail skills, a travel chest that is 
 
 This "prototype" exceeded my wildest expectations. I am very pleased with the end product. This will make a very good temporary home to my tools until the full sized one is built and also, be a great traveling chest, when taking classes and such.
 
-This entry was posted on [May 3, 2012](<index.html> "9:26 pm")

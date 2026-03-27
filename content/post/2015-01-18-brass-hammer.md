@@ -40,4 +40,3 @@ This is what I ended up with. Quite a change from the hammer I brought home yest
 
 [![Brass Hammer Top](/img/2015/01/IMG_2377-150x150.png "Close Up")](</img/2015/01/IMG_2377.png>)
 
-This entry was posted on [January 18, 2015](<index.html> "6:15 pm")

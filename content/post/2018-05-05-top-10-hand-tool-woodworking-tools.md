@@ -17,4 +17,3 @@ author: "oldetool"
 
 -Aaron
 
-This entry was posted ion [May 5, 2018](<index.html> "9:01 am")

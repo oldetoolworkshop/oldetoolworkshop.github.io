@@ -37,4 +37,3 @@ Stay tuned for more, later, on the SYP and spring pole lathe.
 
 -Aaron
 
-This entry was posted on [February 21, 2013](<index.html> "8:00 pm")

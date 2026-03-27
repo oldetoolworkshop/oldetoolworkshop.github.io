@@ -20,4 +20,3 @@ As promised, here is the finished cabinet. This was a fun and quick project to d
 
 Click [HERE](<https://youtu.be/OTRKYZisFeA>) for my [YouTube](<https://www.youtube.com/channel/UCXD6pOeh-6JLW6qzcOLk-mw>) video of this project.
 
-This entry was posted on [May 9, 2018](<index.html> "1:19 pm")

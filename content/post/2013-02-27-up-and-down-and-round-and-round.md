@@ -50,4 +50,3 @@ One final note; once my lathe is finished, I want to make a really nice version 
 
  
 
-This entry was posted on [February 27, 2013](<index.html> "6:33 pm")

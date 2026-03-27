@@ -24,4 +24,3 @@ A little sanding and a few adjustments here and there and the plane was ready fo
 
 -Aaron
 
-This entry was posted on [March 11, 2015](<index.html> "3:37 pm")

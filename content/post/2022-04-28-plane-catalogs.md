@@ -15,15 +15,13 @@ author: "oldetool"
 
 
 
-<img src="/img/2022/04/catelog.png" alt="Stanley Catelog No.34" align="left" width="600">
-<br clear="left"/>
+{{< figure src="/img/2022/04/catelog.png" alt="Stanley Catelog No.34" >}}
 
 Let's face it, I love my planes. They do so many jobs from rough stock prep with the scrub or Jack plane to fine surface smoothing with the No. 3 or No. 4 smoothing planes. The plucky little block plane can take off end grain with gusto.
 
 I wrote a blog post about my planes [here](https://oldetoolworkshop.com/2022/04/28/tools-series-part-3-planes/) where I go into detail about types of planes I own and new vs. old planes.
 
-<img src="/img/2022/04/plane-parts.jpeg" alt="Stanley Plane - Expanded View" align="left" width="600">
-<br clear="left"/>
+{{< figure src="/img/2022/04/plane-parts.jpeg" alt="Stanley Plane - Expanded View" >}}
 
 This entry is to remind everyone that there are some really good resources and references out there about vintage planes. One such resource is [Archive.org](https://archive.org). You can specify a topic like “Hand Planes” and you will get lots of results. There have been a lot of old and new texts added recently, so if you’ve not visited this site in a while, it may be time to go back and check it out.
 

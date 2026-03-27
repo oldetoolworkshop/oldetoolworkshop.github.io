@@ -10,9 +10,7 @@ tags:
 author: "oldetool"
 ---
 
-<img src="/img/2022/04/ash-stool.png" alt="Hickory Bark Stool " align="left" width="600">
-<br clear="left"/>
-Hickory Bark Stool  
+{{< figure src="/img/2022/04/ash-stool.png" alt="Hickory Bark Stool" caption="Hickory Bark Stool" >}}
   
 **Sit Your Ash Down**  
   
@@ -28,5 +26,4 @@ Now for my next greenwood project…
 Peace,  
 Aaron  
   
-This entry was posted on [April 30, 2022]
   

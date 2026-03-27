@@ -10,11 +10,7 @@ tags:
 author: "oldetool"
 ---
 
-<figure>
-  <img src="/img/2021/01/richter-stemmeisen-331182-624x351.jpg" alt="Narex Richter" align="left" width="600">
-   <br clear="left"/>
-  <figcaption><i>Narex Richter - See it's surprising test result in James Wright's Chisel Test - link below</i></figcaption>
-</figure>
+{{< figure src="/img/2021/01/richter-stemmeisen-331182-624x351.jpg" alt="Narex Richter" caption="Narex Richter - See its surprising test result in James Wright's Chisel Test - link below" >}}
 
 
 ## Chisels
@@ -39,7 +35,7 @@ So I did the obvious, I resharpened them again and they had a beautiful gleaming
 I had some old chisels I had been collecting for the past couple of years. I started cleaning them up and sharpening them. Some needed new handles, so I made some crude ones to get going (I made better handles later after I got my lathe.) I started using these old chisels and they were orders of magnitude better that those lumps of crappy metal and plastic with a label that said "Chisel". They took a wonderful edge and kept it. They cut through pine, walnut, cherry, hickory and hard maple and kept on going. Now I was getting somewhere. 
 
   * ![](/img/2021/01/IMG_1332-scaled.jpg)Modern LN Bevel Edge Chisels
-  * ![](/img/2021/01//IMG_1334-scaled.jpg)Misc Vintage Chisels
+  * ![](/img/2021/01/IMG_1334-scaled.jpg)Misc Vintage Chisels
 
 
 
@@ -94,5 +90,4 @@ Aaron
 
 Copyright 2021 © W. A. Henderson
 
-This entry was posted on [January 10, 2021](<index.html> "8:00 am") by [OldeToolWorkshop](<../../../../author/oldetoolworkshop/index.html> "View all posts by OldeToolWorkshop"). 
 

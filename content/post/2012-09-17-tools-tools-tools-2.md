@@ -42,4 +42,3 @@ Now just 362 more days (give or take) until the next meet.
 
  
 
-This entry was posted on [September 17, 2012](<index.html> "10:55 pm")

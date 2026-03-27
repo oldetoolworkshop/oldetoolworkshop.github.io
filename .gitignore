@@ -1,8 +1,30 @@
+# Hugo build files
 .hugo_build.lock
-# /public/
 
-# Ignore the entire public directory
+# Public directory (except pagefind search index)
 /public/*
-
-# Exception: Allow the 'pagefind' subdirectory within public
 !/public/pagefind/
+
+# Project team folder — internal docs, not part of the website
+/Project/
+
+# Node
+node_modules/
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Environment and secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo

@@ -39,4 +39,3 @@ I have since purchased some more tools and supplies and some more leather. I dec
 
  
 
-This entry was posted on [February 11, 2013](<index.html> "10:38 am")

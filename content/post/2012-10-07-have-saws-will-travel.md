@@ -44,4 +44,3 @@ More to come soon …
 
 -Aaron
 
-This entry was posted on [October 7, 2012](<index.html> "12:05 pm")

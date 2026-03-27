@@ -42,5 +42,4 @@ If any of you are building or planning on building this bench, you may want to a
 Peace,  
 Aaron
 
-This entry was posted on [May 15, 2020](<index.html> "10:29 am")
 

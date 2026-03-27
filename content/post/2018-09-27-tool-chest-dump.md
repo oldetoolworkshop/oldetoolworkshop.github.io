@@ -52,4 +52,3 @@ The chest is in amazing shape. It has been rock solid and has survived a couple 
 
 P.S. If you have any questions about the tools listed in the top picture or anything else in this blog, just click the "CONTACT US" link in the menu and I will be glad to help you out.
 
-This entry was posted on [September 27, 2018](<index.html> "10:21 am")

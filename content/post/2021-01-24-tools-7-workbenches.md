@@ -14,10 +14,7 @@ author: "oldetool"
 
 **Tools Series – Part 7 – Workbenches**  
 
-<img src="/img/2021/01/roubo-workbench.jpg" alt="Split-Top Roubo Workbench" align="left" width="600">
-<br clear="left"/>
-
-My mostly complete Roubo Split-Top Workbench with Benchcrafted vises  
+{{< figure src="/img/2021/01/roubo-workbench.jpg" alt="Split-Top Roubo Workbench" caption="My mostly complete Roubo Split-Top Workbench with Benchcrafted vises" >}}
   
 **Workbenches**  
   
@@ -31,17 +28,13 @@ I started my seriously fun woodworking adventure late in life (I’ve been dabbl
   
 Published in 2011, LAP’s “The Anarchist’s Tool Chest” was truly a turning point in my understanding of the craft and reinforced my ideals about hand-tool woodworking, self-reliance and the state of todays furniture industry (it sucks by the way). I just finished re-reading “The Anarchist’s Tool Chest” and it is just as fresh and relevant today, 10 as it was ten years ago when it was published. The good news is the state of hand-tool working today is much more widely accepted than a decade ago. There are also more tool makers today that recognize that woodworkers demand quality products and are actually making them.  
 
-<img src="/img/2021/01/junk-workbench.jpg" alt="Crappy Workbench" align="center" width="300">
-Crappy 1st workbench  
-<br clear="left"/>
+{{< figure src="/img/2021/01/junk-workbench.jpg" alt="Crappy Workbench" caption="Crappy 1st workbench" >}}
 
   
 My first workbench was purchased with an abundance of enthusiasm and ignorance. Those are a bad combination because the ignorance can lead you to a purchase an item that can kill your enthusiasm. Fortunately, this did not happen in my case. I just realized I just spent too much money (money that could be spent on materials for a real workbench) on a crappy and poorly designed workbench-shaped object. Okay, so now you know, so please don’t make the same mistake I did. Curb your enthusiasm a bit, and do your research before laying out big bucks for anything. Flashy ads and marketing hype are designed to tap into our lizard brains and trick us into wasting our hard-earned cash. Lesson learned; now let’s talk about real workbenches.  
 
 
-<img src="/img/2021/01/og-roubo-workbench.png" alt="Original Roubo Plate 11 Workbench" align="center" width="600">  
-<br clear="left"/>
-The famous Roubo Plate 11 – Figure 1 – 18th Century Workbench  
+{{< figure src="/img/2021/01/og-roubo-workbench.png" alt="Original Roubo Plate 11 Workbench" caption="The famous Roubo Plate 11 – Figure 1 – 18th Century Workbench" >}}
   
 **The Great Roubo**  
   
@@ -53,14 +46,9 @@ I chose the Split-Top design to make the bench easier to move. It can be broken 
 
 There are many different workbench designs out there, but I found the Split-Top Roubo design perfect for my needs. I choose the BenchCrafted vises as they are the best metal vises made today. They’re not cheap, but they’re very nice and I love using them. They have smooth action and work with little effort. Do not cheap out on bench hardware, you will regret it if you do.  
 
-<img src="/img/2021/01/pr-planing-stop1.jpg" alt="Peter Ross Planing Stop" align="left" width="600">
-<br clear="left"/> 
+{{< figure src="/img/2021/01/pr-planing-stop1.jpg" alt="Peter Ross Planing Stop" caption="Peter Ross Planing Stop" >}}
 
-Peter Ross Planing Stop
- 
-<img src="/img/2021/01/pr-planing-stop2.jpg" alt="Peter Ross Planing Stop full view" align="left" width="600">
-<br clear="left"/> 
-Peter Ross Planing Stop full view
+{{< figure src="/img/2021/01/pr-planing-stop2.jpg" alt="Peter Ross Planing Stop full view" caption="Peter Ross Planing Stop full view" >}}
 
 Here is a picture of my new bench stop made by Master Blacksmith, Peter Ross. This has yet to be installed on the bench but it’s a beautifully crafted piece and I look forward to installing it (soon) and using it.  
   
@@ -92,4 +80,3 @@ Peace,
 Aaron  
   
   
-This entry was posted  on [January 24, 2021]

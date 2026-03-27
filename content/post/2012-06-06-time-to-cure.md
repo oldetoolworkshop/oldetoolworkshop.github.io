@@ -26,4 +26,3 @@ I have decided to leave the existing finish on the recycled flooring as it will 
 
 - oldetool
 
-This entry was posted on [June 6, 2012](<index.html> "10:14 pm")

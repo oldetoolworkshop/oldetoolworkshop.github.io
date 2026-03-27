@@ -36,11 +36,21 @@ jobs:
           hugo-version: 'latest' # Or use a specific version like '0.120.4'
           extended: true         # Set to true if your theme requires the extended version
 
-      # Step 3: Builds the Hugo site (This generates the 'public' folder)
+      # Step 3: Sets up Node.js for Pagefind
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Step 4: Builds the Hugo site (This generates the 'public' folder)
       - name: Build Site
         run: hugo --minify
-      
-      # Step 4: Uploads the generated 'public' directory as an artifact
+
+      # Step 5: Builds the Pagefind search index
+      - name: Build Pagefind Index
+        run: npx pagefind --site "public"
+
+      # Step 6: Uploads the generated 'public' directory as an artifact
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:

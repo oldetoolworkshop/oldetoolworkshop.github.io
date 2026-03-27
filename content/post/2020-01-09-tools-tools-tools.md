@@ -33,10 +33,9 @@ Last but not by any stretch least is **Ed 's Tool Store** over Roy Underhill's [
 
 Now that you have a full set of tools, go ahead and make yourself a tool box <https://lostartpress.com/products/the-anarchists-tool-chest> I can't recommend this book enough. Chris Schwarz is an excellent writer and your whole concept of Hand Tools will be reset after reading this book. Just buy it! Get both the Hardbound and the PDF version if you can afford it. If not, At least get the Hardbound edition. 
 
-What tools do you need to start woodworking? Look [here at a PDF](</img/uploads/2020/01/top_10_essential_hand_woodworking_tools.pdf>) I wrote to get a list of the tools I consider to be first in any beginners tool box.
+What tools do you need to start woodworking? Look [here at a PDF](</img/2018/05/top_10_essential_hand_woodworking_tools.pdf>) I wrote to get a list of the tools I consider to be first in any beginners tool box.
 
 May your shavings be thin and your joy abundant
 
 -Aaron 
 
-This entry was posted on [January 9, 2020](<index.html> "10:23 am")

@@ -19,4 +19,3 @@ My old bench had a vise that would rack, so I cut out several pieces of 4″ X 1
 
 Peace
 
-This entry was posted on [February 5, 2020](<index.html> "9:13 am")

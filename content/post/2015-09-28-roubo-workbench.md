@@ -39,4 +39,3 @@ This will not be a very long journey, I want this workbench finished before the 
 
  
 
-This entry was posted on [September 28, 2015](<index.html> "11:32 pm")

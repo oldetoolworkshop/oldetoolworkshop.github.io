@@ -33,4 +33,3 @@ One side note, I was planning on doing a "[The Onion](<http://www.theonion.com>)
 
 -Aaron
 
-This entry was posted on [May 28, 2013](<index.html> "9:00 pm")

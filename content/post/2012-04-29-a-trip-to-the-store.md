@@ -30,4 +30,3 @@ Pittsboro, NC
 Thanks to [Chris Schwarz](<http://www.lostartpress.com/> "Lost Art Press") for this video of Ed's store  
 
 
-This entry was posted on [April 29, 2012](<index.html> "8:07 am")

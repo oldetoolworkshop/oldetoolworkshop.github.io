@@ -57,4 +57,3 @@ Toolrest sans the wooden nut
 
 Toolrest adjustment lever
 
-This entry was posted on [June 29, 2013](<index.html> "9:29 am")

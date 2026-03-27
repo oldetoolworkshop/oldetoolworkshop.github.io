@@ -14,4 +14,3 @@ If you are early to this site please excuse the number of changes going on as I 
 
 - oldetool
 
-This entry was posted on [April 26, 2012](<index.html> "2:48 am")

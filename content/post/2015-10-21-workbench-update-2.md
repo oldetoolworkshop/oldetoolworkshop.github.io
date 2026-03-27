@@ -21,4 +21,3 @@ Now to build a leg to put it in. Should be able to build a couple on Friday.
 
 -Aaron
 
-This entry was posted on [October 21, 2015](<index.html> "7:53 pm")

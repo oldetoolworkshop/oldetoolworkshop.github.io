@@ -36,4 +36,3 @@ Here are some pics of the Saw Box at this stage.
   
 
 
-This entry was posted on [October 13, 2012](<index.html> "8:59 am")

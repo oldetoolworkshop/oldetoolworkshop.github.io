@@ -26,7 +26,7 @@ I removed all the hardware and sanded it with 280 grit sandpaper. My plan was to
 Fortunately whoever originally finished this piece did not put many coats so the sanding went pretty smoothly. There were some dings and I had to set a few finish nails, but nothing major.
 
  
- ![](/img/2018/05/cabinet-one-coat-red-scaled.jpg)
+ ![](/img/2018/05/Cabinet-One-Coat-Red-scaled.jpg)
 
 Cabinet with one coat of milk paint
 
@@ -44,4 +44,3 @@ Shop Cat helping paint dry
 
 P.S. If you have not seen my YouTube channel click => Here to check it out or click on the YouTube link on the sidebar.
 
-This entry was posted in Tools on May 8, 2018 by OldeToolWorkshop.

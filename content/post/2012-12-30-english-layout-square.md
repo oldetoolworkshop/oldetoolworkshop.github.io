@@ -34,4 +34,3 @@ Here is another book I own that was also authored by Alexander, as well as Peter
 
 -Aaron
 
-This entry was posted on [December 30, 2012](<index.html> "12:16 am")

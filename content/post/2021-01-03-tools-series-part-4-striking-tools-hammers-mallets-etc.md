@@ -19,8 +19,7 @@ author: "oldetool"
 
 There's something very satisfying about driving a nail home or hitting a chisel with a mallet where you take just the perfect chunk of wood off. Mallets and Hammers offer the woodworker a great opportunity to make their own tools. At least this was the case for me. I have made several striking tools and I love using them. Woodworking mallets are simple to make and can last you a lifetime (more on that later). Good hammers are easy to re-handle and a joy to use. I have just a drop in the bucket of types of striking tools available to the modern craftsman, but every one of them gets plenty of use. 
 
-<img src="/img/2020/12/nail.png" alt="Nail" align="left" width="80">
-<br clear="left"/>
+{{< figure src="/img/2020/12/nail.png" alt="Nail" >}}
 
 The nail on the magnet pictured on the left, is a nail I found at the homestead of my 5th Great-Grandfather. It's a forged 18th century nail used in the construction of his first homestead in 1756. He would have recognized most of the tools in my current shop (the metal planes are "New" inventions, but he would know what they are) as hand woodworking tools have not changed all that much in the 270 years since then. I keep it next to my hammers to remind me of what came before and to keep in mind the ingenuity, resilience and fortitude of our ancestors.
 
@@ -91,8 +90,7 @@ What can you say about sledge hammers, they're heavy and they "persuade" things 
 * * *
 
 
-<img src="/img/2020/12/baton-456x1536.jpg" alt="Spoon Carving Baton" align="center" width="150">
-<br clear="left"/>
+{{< figure src="/img/2020/12/baton-456x1536.jpg" alt="Spoon Carving Baton" >}}
 
 ## Batons, Gluts and Mauls
 
@@ -144,4 +142,3 @@ Aaron
 
 Copyright 2021 © W. A. Henderson
 
-This entry was posted on [January 3, 2021](<index.html> "8:00 am")
