@@ -1,0 +1,48 @@
+<!-- Hamburger Toggle Button -->
+<button class="otw-sidebar-toggle" id="otw-sidebar-toggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="otw-sidebar">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+</button>
+
+<!-- Overlay -->
+<div class="otw-sidebar-overlay" id="otw-sidebar-overlay" aria-hidden="true"></div>
+
+<!-- Left Sidebar Nav -->
+<nav class="otw-sidebar" id="otw-sidebar" aria-label="Site navigation">
+    <div class="otw-sidebar-header">
+        <a class="otw-sidebar-brand" href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>
+        <button class="otw-sidebar-close" id="otw-sidebar-close" aria-label="Close navigation">
+            <i class="fas fa-times"></i>
+        </button>
+    </div>
+
+    <ul class="otw-sidebar-nav">
+        <li>
+            <a href="{{ "/" | relLangURL }}">
+                <i class="fas fa-home"></i> All Posts
+            </a>
+        </li>
+        {{ if not .Site.Params.omit_categories }}
+            {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+            <li>
+                <a href="{{ "categories/" | relLangURL }}{{ $name | urlize }}/">
+                    <i class="fas fa-folder"></i> {{ $name | title }}
+                </a>
+            </li>
+            {{ end }}
+        {{ end }}
+        {{ range .Site.Params.additional_menus }}
+        <li>
+            <a href="{{ .href | relLangURL }}">
+                <i class="fas fa-angle-right"></i> {{ .title }}
+            </a>
+        </li>
+        {{ end }}
+        <li>
+            <a href="{{ "search" | relURL }}">
+                <i class="fas fa-search"></i> Search
+            </a>
+        </li>
+    </ul>
+</nav>
