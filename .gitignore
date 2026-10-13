@@ -1,9 +1,8 @@
 # Hugo build files
 .hugo_build.lock
 
-# Public directory (except pagefind search index)
-/public/*
-!/public/pagefind/
+# Build output (GitHub Actions rebuilds Hugo + Pagefind on every deploy)
+/public/
 
 # Project team folder — internal docs, not part of the website
 /Project/
@@ -28,3 +27,16 @@ node_modules/
 .vscode/
 *.swp
 *.swo
+
+# --- Internal / not part of the website (never publish) ---
+# Claude Code project instructions, local settings and team files
+CLAUDE.md
+.claude/
+# Retired scripts and personal deploy/auth notes
+.archived/
+steps-*.txt
+# Notes and scratch files
+*.local.*
+*.bak
+*.orig
+*.log
