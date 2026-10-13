@@ -1,7 +1,7 @@
 baseurl = "https://oldetoolworkshop.com"
 title = "Olde Tool Workshop"
 theme = "hugo-theme-cleanwhite"
-languageCode = "en-us"
+locale = "en-US"
 preserveTaxonomyNames = true
 hasCJKLanguage = true
 
@@ -15,7 +15,7 @@ hasCJKLanguage = true
   pagerSize = 5 # frontpage pagination
 
 [outputs]
-home = ["HTML", "RSS", "Algolia"]
+home = ["HTML", "RSS"]
 
 [params]
   header_image = "img/home-bg-jeep.jpg"
@@ -63,10 +63,6 @@ home = ["HTML", "RSS", "Algolia"]
   artalk_enable = false
   artalk_server = ""
   artalk_site = ""
-
-  #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true
-  # reward_guide = "" 
 
   friends = true
   bookmarks = false
