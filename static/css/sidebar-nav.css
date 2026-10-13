@@ -1,7 +1,9 @@
 /* =============================================================
    Olde Tool Workshop — Left Sidebar Navigation
-   - Desktop (≥768px): Permanent sidebar, content pushed right
-   - Mobile  (<768px): Off-canvas drawer with hamburger toggle
+   - Desktop (≥1200px wide AND a hover-capable pointer): permanent
+     sidebar, content pushed right
+   - Phones, tablets and iPads (everything else, incl. touch-only
+     devices of any width): off-canvas drawer with hamburger toggle
    ============================================================= */
 
 /* Remove Bootstrap body padding added by navbar-fixed-top */
@@ -222,9 +224,9 @@ body.otw-sidebar-open .otw-sidebar-toggle .icon-bar:nth-child(3) {
 }
 
 /* =============================================================
-   MOBILE (<768px) — touch-friendly drawer and page safeguards
+   PHONES & TABLETS — touch-friendly drawer and page safeguards
    ============================================================= */
-@media (max-width: 767.98px) {
+@media not all and (min-width: 1200px) and (hover: hover) {
 
     /* Never let the page scroll sideways */
     html,
@@ -296,9 +298,9 @@ body.otw-sidebar-open .otw-sidebar-toggle .icon-bar:nth-child(3) {
 }
 
 /* =============================================================
-   DESKTOP (≥768px) — Permanent sidebar, content pushed right
+   DESKTOP (≥1200px, hover-capable) — Permanent sidebar
    ============================================================= */
-@media (min-width: 768px) {
+@media (min-width: 1200px) and (hover: hover) {
 
     /* Sidebar always visible — no animation needed */
     .otw-sidebar {
