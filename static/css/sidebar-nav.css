@@ -21,10 +21,7 @@ body {
        every mobile viewport (no breakpoint dead zone). */
     width: min(300px, 85vw);
     height: 100vh;
-    background-image: url('/img/wood-sidebar.png');
-    background-size: cover;
-    background-position: center top;
-    background-color: #e2d5be; /* fallback if image fails */
+    background-color: #d4e6c8; /* light sage green */
     color: #1a1a1a;
     z-index: 1200;
     overflow-y: auto;
@@ -151,28 +148,41 @@ body {
    ============================================================= */
 .otw-sidebar-toggle {
     position: fixed;
-    top: 16px;
-    left: 16px;
+    top: calc(12px + env(safe-area-inset-top, 0px));
+    left: calc(12px + env(safe-area-inset-left, 0px));
     z-index: 1100;
-    background: rgba(0, 0, 0, 0.45);
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    border-radius: 4px;
-    padding: 9px 11px;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #d4e6c8;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    padding: 0;
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
     transition: background 0.2s ease;
 }
 
 .otw-sidebar-toggle:hover,
 .otw-sidebar-toggle:focus {
-    background: rgba(0, 133, 161, 0.75);
+    background: #c3dbb4;
     outline: none;
+}
+
+.otw-sidebar-toggle:focus-visible {
+    outline: 2px solid #0085a1;
+    outline-offset: 2px;
 }
 
 .otw-sidebar-toggle .icon-bar {
     display: block;
     width: 22px;
     height: 2px;
-    background-color: #fff;
+    background-color: #1a1a1a;
     border-radius: 1px;
     transition: all 0.25s ease;
 }
@@ -209,6 +219,80 @@ body.otw-sidebar-open .otw-sidebar-toggle .icon-bar:nth-child(3) {
 .otw-sidebar-overlay.active {
     opacity: 1;
     pointer-events: auto;
+}
+
+/* =============================================================
+   MOBILE (<768px) — touch-friendly drawer and page safeguards
+   ============================================================= */
+@media (max-width: 767.98px) {
+
+    /* Never let the page scroll sideways */
+    html,
+    body {
+        overflow-x: hidden;
+        max-width: 100%;
+    }
+
+    /* Lock page scroll behind the open drawer */
+    body.otw-sidebar-open {
+        overflow: hidden;
+    }
+
+    /* Drawer fits the real visible viewport (address-bar safe) and
+       respects notches / home indicators */
+    .otw-sidebar {
+        height: 100vh;
+        height: 100dvh;
+        padding-bottom: env(safe-area-inset-bottom, 0px);
+        overscroll-behavior: contain;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .otw-sidebar-header {
+        padding-top: calc(18px + env(safe-area-inset-top, 0px));
+    }
+
+    /* 44px minimum tap targets */
+    .otw-sidebar-close {
+        min-width: 44px;
+        min-height: 44px;
+        font-size: 1.6rem;
+    }
+
+    .otw-sidebar-nav li a {
+        min-height: 48px;
+        padding: 12px 20px;
+    }
+
+    .otw-sidebar-nav li a:hover,
+    .otw-sidebar-nav li a:focus {
+        padding-left: 20px; /* no slide-in shift on touch */
+    }
+
+    /* Keep content clear of the hamburger button */
+    .intro-header .site-heading,
+    .intro-header .post-heading,
+    .intro-header .page-heading {
+        padding-top: 56px;
+    }
+
+    /* Long code, tables and embeds scroll inside themselves, not the page */
+    .post-container pre,
+    .post-container table {
+        display: block;
+        max-width: 100%;
+        overflow-x: auto;
+    }
+
+    .post-container {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+    }
+
+    .post-container iframe,
+    .post-container video {
+        max-width: 100%;
+    }
 }
 
 /* =============================================================
