@@ -41,7 +41,7 @@ The 7 oz. Homemade Brass hammer (Jan 2015) was a really great addition to my ham
 
   * Vaughan DO16 16 OZ Modified Octagon Nail Hammer
   * Workforce 7 oz. with Hickory Handle
-  * [Lie-Nielsen 4 oz. Hardened A2 Steel Cross Peen Hammer](<https://www.lie-nielsen.com/products/cross-peen-hammer-A2>)
+  * [Lie-Nielsen 4 oz. Hardened A2 Steel Cross Peen Hammer](<https://web.archive.org/web/20230128191548/https://www.lie-nielsen.com/products/cross-peen-hammer-A2>)
   * [Homemade 7 oz. Brass Hammer with turned cherry handle](<../../../../2015/01/18/brass-hammer/index.html>)
   * Estwing MRW16BP Sure Strike 16 oz. Wood Handle Ball Peen Hammer
 

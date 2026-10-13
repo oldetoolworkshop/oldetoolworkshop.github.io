@@ -12,11 +12,11 @@ author: "oldetool"
 ---
 [![](/img/2012/12/english_layout_square-1024x768.jpg)](</img/2012/12/english_layout_square.jpg>)
 
-I hope you had a nice Holiday! I sure did. I got a chance to spend some quality time in the shop the last few days. This English Layout Square is a project I have been meaning to take on for some time, but just never got around to it. After seeing the re-run of the [Woodwright's Shop](<http://video.pbs.org/video/2172739971/>) online where Roy and Chris built this, I had to make one too; it looked like too much fun to pass up.
+I hope you had a nice Holiday! I sure did. I got a chance to spend some quality time in the shop the last few days. This English Layout Square is a project I have been meaning to take on for some time, but just never got around to it. After seeing the re-run of the [Woodwright's Shop](<https://www.pbs.org/video/the-woodwrights-shop-english-layout-square-with-chris-schwarz>) online where Roy and Chris built this, I had to make one too; it looked like too much fun to pass up.
 
 I stopped by Home Depot for some errands and decided to get a 1/2″ piece of poplar to do this English Layout Square. I knew it would not take long to build and would be a fun project.
 
-This project was also published in the [December 2010](<http://www.shopwoodworking.com/popular-woodworking-magazine-december-2010?r=pwcsbf022311PW1210>) issue of Popular Woodworking, and there is a free [Sketchup drawing](<http://sketchup.google.com/3dwarehouse/details?mid=31f0a804bf947722310af74324aae27f>) available as well. That is what I used as a reference and I was able print out the nice curves, and transferred them to templates which I made out of some scrap maple.
+This project was also published in the December 2010 issue of Popular Woodworking, and there is a free Sketchup drawing available as well. That is what I used as a reference and I was able print out the nice curves, and transferred them to templates which I made out of some scrap maple.
 
 It took me two days to complete the square and another day to tune and apply the finish (boiled linseed oil and paste wax topcoat). I also took the time, while the linseed oil was drying, to make the holder out of some cherry and scrap poplar; it really accents the square and keeps it secure on the wall.
 

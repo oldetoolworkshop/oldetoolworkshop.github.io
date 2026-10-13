@@ -21,8 +21,8 @@ Here is a list of publications that I have referenced during my formative woodwo
 #### Roy Underhill’s Publications ####
 
 
-* [The Woodwright’s Shop](http://uncpress.unc.edu/browse/book_detail?title_id=622) – Working Wood with Wedge and Edge
-* [The Woodwright’s Guide](http://uncpress.unc.edu/browse/book_detail?title_id=1562) – A Practical Guide to Traditional Woodcraft  
+* [The Woodwright’s Shop](https://uncpress.org/book/9780807840825/the-woodwrights-shop) – Working Wood with Wedge and Edge
+* [The Woodwright’s Guide](https://www.uncpress.org/book/9780807859148/the-woodwrights-guide/) – A Practical Guide to Traditional Woodcraft  
   
 #### Lost Art Press and Chris Schwarz’s Publications ####
 
@@ -34,7 +34,7 @@ Here is a list of publications that I have referenced during my formative woodwo
 
 * [The Anarchist’s Design Book](https://lostartpress.com/collections/books/products/the-anarchists-design-book)
 
-* [Workbenches: From Design & Theory to Construction & Use](http://books.google.com/books/about/Workbenches.html?id=zN-ZBSv2UuIC) [Handplane Essentials](https://books.google.com/books?id=QR7gAhT4WmoC)
+* [Workbenches: From Design & Theory to Construction & Use](https://penguinrandomhouse.com/books/632318/workbenches-revised-edition-by-christopher-schwarz) [Handplane Essentials](https://www.penguin.com.au/books/handplane-essentials-revised-and-expanded-9781440349508)
 
 * Any of their translations from Andre Roubo  
   
@@ -44,7 +44,7 @@ Here is a list of publications that I have referenced during my formative woodwo
   
 #### Jim Tolpin ####
 
-* [The New Traditional Woodworker](http://books.google.com/books?id=tyh0I71Yi8gC) From Tool Set to Skill Set to Mind Set  
+* [The New Traditional Woodworker](https://penguinrandomhouse.com/books/629041/the-new-traditional-woodworker-by-jim-tolpin) From Tool Set to Skill Set to Mind Set  
   
 #### Aldren A. Watson ####
 

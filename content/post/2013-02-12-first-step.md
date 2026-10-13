@@ -25,13 +25,13 @@ Back to the shuttle points. Well, saying that they were smooth is stretching it 
 
 I will be using Roy Underhill's plans for a breakdown model for easier transport. I have been planning to build this for some time and I have just finished a lengthy house project and I have promised myself that the lathe is my next major woodworking project. I know Roy is tired of me asking tons of questions about the design. I just want to have a usable tool that I will get many years usage out of.
 
-Here is the online information and some pictures of the lathe. The Woodwright's School has a class on making the lathe [Making the German Spring Pole Lathe with Roy Underhill](<http://www.woodwrightschool.com/make-the-spring-pole-lathe-w-r/>). I have enough experience now that I should be able to make this myself without the class.
+Here is the online information and some pictures of the lathe. The Woodwright's School has a class on making the lathe [Making the German Spring Pole Lathe with Roy Underhill](<https://www.woodwrightschool.com/classes>). I have enough experience now that I should be able to make this myself without the class.
 
 #### Unfortunately, The Woodwright's School permanently closed at the end of its 2023 season, in August 2023 and is no longer teaching classes. This causes me much saddness. ####
 
 permanently closed at the end of its 2023 season, around August 2023
 
-[Here is a link to the Wood Turners of Virginia's web site](<http://www.woodturnersofthevirginias.org/wova_documents/treadle_lathe/spring_pole_lathe.gif>). This is the plan I will be using to make my lathe.
+Here is a link to the Wood Turners of Virginia's web site. This is the plan I will be using to make my lathe.
 
 Here is a link to a Lee-Valley article about spring pole lathes and some of their history:[ http://www.leevalley.com/us/newsletters/Woodworking/5/5/article2.htm](<http://www.leevalley.com/us/newsletters/Woodworking/5/5/article2.htm>)
 

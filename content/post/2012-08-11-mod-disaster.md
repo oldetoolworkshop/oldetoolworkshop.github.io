@@ -10,7 +10,7 @@ tags:
     - tool mods
 author: "oldetool"
 ---
-It all started when I followed Chris Schwarz's advice and bought the [Glen-Drake Tite-Mark](<http://play-glen-drake.com/v-web/ecommerce/os/catalog/product_info.php?cPath=24&products_id=37> "Glen-Drake Tite-Mark marking gauge") marking gauge.
+It all started when I followed Chris Schwarz's advice and bought the [Glen-Drake Tite-Mark](<https://www.finewoodworking.com/2005/10/25/marking-gauge-tite-mark-double-mortise-review> "Glen-Drake Tite-Mark marking gauge") marking gauge.
 
 [![](/img/2012/08/tite_mark_gauge-225x300.jpg)](</img/2012/08/tite_mark_gauge.jpg>)
 

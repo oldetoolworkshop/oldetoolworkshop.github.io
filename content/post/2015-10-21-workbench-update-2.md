@@ -13,7 +13,7 @@ author: "oldetool"
 
 
 ![IMG_2826](/img/2015/10/IMG_2826-e1445471192106-1024x969.jpg)  
-Yea!, My new [Benchcrafted Classic Leg Vise](<http://benchcrafted.com/ClassicLV.html>) is in. Unfortunately they must have run out of the unfinished vises, I am still very happy with this vise. The machining on their vise hardware is amazing. They are the best you can get…period!
+Yea!, My new [Benchcrafted Classic Leg Vise](<https://benchcrafted.com/products/classic-leg-vise>) is in. Unfortunately they must have run out of the unfinished vises, I am still very happy with this vise. The machining on their vise hardware is amazing. They are the best you can get…period!
 
 ![IMG_2829](/img/2015/10/IMG_2829-e1445471121562-225x300.jpg)
 

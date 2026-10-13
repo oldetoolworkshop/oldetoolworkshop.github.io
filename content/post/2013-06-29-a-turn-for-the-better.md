@@ -43,7 +43,7 @@ Roy said in his book, "[The Woodwright's Guide: Working Wood with Wedge and Edge
 
 - Aaron
 
-P.S. All steel and brass hardware was purchased from [McMaster-Carr](<http://www.mcmaster.com>) and the 3/8″ leather belting can be obtained from [Universal Sewing Supply](<https://www.universalsewing.com/tek9.asp?pg=products&specific=1`30226>).
+P.S. All steel and brass hardware was purchased from [McMaster-Carr](<http://www.mcmaster.com>) and the 3/8″ leather belting can be obtained from Universal Sewing Supply.
 
 [![The wooden tightening nut](/img/2013/06/lathe_toolrest_3-225x300.jpg)](</img/2013/06/lathe_toolrest_3.jpg>)
 

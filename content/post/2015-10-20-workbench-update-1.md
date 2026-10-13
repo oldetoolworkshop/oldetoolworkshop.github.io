@@ -19,7 +19,7 @@ BenchCrafted Classic Leg Vise - Unfinished
 
 3x5x22 Maple End Cap - Cat Inspected (Cookie)
 
-I have almost all the materials on hand for my workbench. I am still waiting for my new [Benchcrafted Traditional Classic](<http://benchcrafted.com/ClassicLV.html>) Vise to get here, but I finished surfacing my hard maple end cap that secures the tail vise to the end of the bench. As you can see my shop cat is inspecting my work with aloof approval. It started out as a rough log and now it is surfaced on 4 sides, square and flat 3″x5″x22″ board. As you can also see, the benchtop boards are now acclimating in my shop. I will start laminating them soon.
+I have almost all the materials on hand for my workbench. I am still waiting for my new [Benchcrafted Traditional Classic](<https://benchcrafted.com/products/classic-leg-vise>) Vise to get here, but I finished surfacing my hard maple end cap that secures the tail vise to the end of the bench. As you can see my shop cat is inspecting my work with aloof approval. It started out as a rough log and now it is surfaced on 4 sides, square and flat 3″x5″x22″ board. As you can also see, the benchtop boards are now acclimating in my shop. I will start laminating them soon.
 
 
 ![IMG_0059](/img/2015/10/IMG_0059-225x300.jpg)
